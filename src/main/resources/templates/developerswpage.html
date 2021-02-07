@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="./img/NALSSAM_LOGO.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/developerswpage.css" />
+    <style>
+      @font-face {
+        font-family: "SFProText-Regular";
+        font-style: normal;
+        font-weight: 1 1000;
+        src: url("./fonts/SFProText-Regular.otf")
+          format("truetype");
+      }
+      @font-face {
+        font-family: "AppleSDGothicNeo-Thin";
+        font-weight: 1 1000;
+        src: url("./fonts/AppleSDGothicNeo-Thin.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "MarkerFelt-Wide";
+        font-weight: 1 1000;
+        src: url("./fonts/MarkerFelt-Wide.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "AppleSDGothicNeo-Regular";
+        font-weight: 1 1000;
+        src: url("./fonts/AppleSDGothicNeo-Regular.ttf") format("truetype");
+      } 
+      @font-face {
+        font-family: "AppleSDGothicNeo-SemiBold";
+        font-weight: 1 1000;
+        src: url("./fonts/AppleSDGothicNeo-SemiBold.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "AppleSDGothicNeo-Bold";
+        font-weight: 1 1000;
+        src: url("./fonts/AppleSDGothicNeo-Bold.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "AppleSDGothicNeo-ExtraBold";
+        font-weight: 1 1000;
+        src: url("./fonts/AppleSDGothicNeo-ExtraBold.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "MarkerFelt-Thin";
+        font-weight: 1 1000;
+        src: url("./fonts/MarkerFelt-Thin.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "KoreanBRS-B";
+        font-weight: 1 1000;
+        src: url("./fonts/KoreanBRS-B.ttf") format("truetype");
+      }     
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(0, 0, 0, 1)">
+    <input type="hidden" id="anPageName" name="page" value="developerswpage" />
+    <div class="container-center-horizontal">
+      <div class="developerswpage screen">
+        <div class="navbar-C61RwL">
+          <div class="hr-8MJZIW"></div>
+          <div class="button-8MJZIW"><div class="textlabel-likLiH ji1style">지원하기</div></div>
+        </div>
+        <a href="maindesktop.html"><div class="nalssam-C61RwL nalssam-style designed-by-omen-style">NALSSAM</div></a>
+        <div class="section-hero-C61RwL">
+          <div class="images-1DjvRl">
+            <img
+              class="background-image-7nAhv2"
+              src="img/developer-sw-page-background-image-AFB5F595-5B24-4424-A967-2EE0D73CC705.png"
+            />
+            <img
+              class="background-image-XuZJXQ"
+              src="img/developer-sw-page-background-image-FE0D8709-9DC8-4AAC-BEDD-3B2E007B103C.png"
+            />
+            <img
+              class="background-image-LOrteM"
+              src="img/developer-sw-page-background-image-7534FADF-A9CF-402A-8E72-0C74E64080FA.png"
+            />
+          </div>
+          <div class="textlabel-1DjvRl naldevfront">당신의 다음 동아리는 동아리가 아니다</div>
+          <div class="x2021-sw-1DjvRl watchrightnow newcrewofsw">
+            2021년도 날샘 SW분야 신입생 모집<br />AI, Andriod, WEB, Linux, Design etc
+          </div>
+          <div class="link-1DjvRl">
+            <div class="textlabel-h7It44 watchrightnow newcrewofsw">모집 영상 확인하기</div>
+            <div class="icon-h7It44">
+              <img
+                class="triangle-xMsbtx"
+                src="img/developer-sw-page-triangle-DBA6973F-67ED-4AD4-B4D3-3BD9E40FE54A@2x.png"
+              />
+              <div class="oval-xMsbtx"></div>
+            </div>
+          </div>
+        </div>
+        <div class="view-C61RwL">
+          <div class="x-nalssam-UOcbxe thanks">
+            여기까지 읽어준 예비 Nalssam 개발자 친구<br />보이는 것처럼 여기 개발자들은 정신이 나갔습니다. 하지만 하나는
+            알고 가세요, 이런 정신 나간 개발자들도 자신이 하고 싶은 개발활동을 하며, 웹사이트까지 만든다는 것을요. 이
+            개발자 웹에 쎃있는 말을 보고 현실의 저희를 보면 좀 괴리감이 들것입니다. 왜냐고요, 현실에서는 그냥
+            평범하거든요. 면접전, 웹사이트를 꼼꼼히 보세요, 어쩌면 면접의 힌트가 있을 수도 있습니다.
+          </div>
+          <div class="developer-omen-UOcbxe developer-ceylon-style">Developer OMEN</div>
+          <div class="link-UOcbxe">
+            <div class="textlabel-XxM5ex dongariactfuck learn-more-style">지원하기</div>
+            <img class="icon-XxM5ex" src="img/developer-sw-page-icon-42CFC1B6-0A72-4FC0-8A2F-1392C248440C@2x.png" />
+          </div>
+        </div>
+        <div class="it-was-joke-C61RwL">
+          <div class="nalssam-dDNtSF developer-ceylon-style">
+            <span class="span1-pSYA4J">* NALSSAM</span><span class="span2-pSYA4J">에서는</span
+            ><span class="span3-pSYA4J">&nbsp;</span><span class="span4-pSYA4J">인성</span
+            ><span class="span5-pSYA4J">&nbsp;</span><span class="span6-pSYA4J">좋은</span
+            ><span class="span7-pSYA4J">&nbsp;</span><span class="span8-pSYA4J">실력자를</span
+            ><span class="span9-pSYA4J">&nbsp;</span><span class="span10-pSYA4J">구하고</span
+            ><span class="span11-pSYA4J">&nbsp;</span><span class="span12-pSYA4J">있습니다</span
+            ><span class="span13-pSYA4J">. </span><span class="span14-pSYA4J">실력이</span
+            ><span class="span15-pSYA4J">&nbsp;</span><span class="span16-pSYA4J">없더라도</span
+            ><span class="span17-pSYA4J">&nbsp;</span><span class="span18-pSYA4J">도전해보세요</span
+            ><span class="span19-pSYA4J">. </span><span class="span20-pSYA4J">저희와</span
+            ><span class="span21-pSYA4J">&nbsp;</span><span class="span22-pSYA4J">함께</span
+            ><span class="span23-pSYA4J">&nbsp;</span><span class="span24-pSYA4J">실력을</span
+            ><span class="span25-pSYA4J">&nbsp;</span><span class="span26-pSYA4J">키워나가면</span
+            ><span class="span27-pSYA4J">&nbsp;</span><span class="span28-pSYA4J">됩니다</span
+            ><span class="span29-pSYA4J">. </span><span class="span30-pSYA4J">화목한</span
+            ><span class="span31-pSYA4J">&nbsp;</span><span class="span32-pSYA4J">분이기의</span
+            ><span class="span33-pSYA4J"> NALSSAM</span><span class="span34-pSYA4J">에서</span
+            ><span class="span35-pSYA4J">&nbsp;</span><span class="span36-pSYA4J">즐게</span
+            ><span class="span37-pSYA4J">&nbsp;</span><span class="span38-pSYA4J">개발해보세요</span
+            ><span class="span39-pSYA4J">. </span><span class="span40-pSYA4J">저희</span
+            ><span class="span41-pSYA4J">&nbsp;</span><span class="span42-pSYA4J">모두가</span
+            ><span class="span43-pSYA4J">&nbsp;</span><span class="span44-pSYA4J">함께</span
+            ><span class="span45-pSYA4J">&nbsp;</span><span class="span46-pSYA4J">나아갑시다</span
+            ><span class="span47-pSYA4J">.</span>
+          </div>
+        </div>
+        <div class="stacked-group-C61RwL">
+          <div class="row-1-SHDHHB">
+            <img
+              class="rectangle-9izie7"
+              src="img/developer-sw-page-rectangle-4EE7BDB4-EA40-465E-AC8B-282D8A63339E@2x.png"
+            />
+            <div class="textlabel-9izie7 itisdongari">가장 실무적이면서<br />실무적이지 않은 동아리</div>
+            <div class="sw-9izie7 dongariactfuck learn-more-style">
+              다른 SW 동아리를 생각하시는 예비 NALSSAM 친구, NALSSAM의 SW분야 친구들은 다른 동아리들처럼 IDE<br />가지고
+              365일 앱 제작만 하지 않습니다. 오히려 다른 동아리들과 다르게 BIO, HW, BM 친구들과 협엽하여 <br />상품을
+              제작하죠. 방에 앉아서 IDE랑 데이트하는 것이 좋다고요? 그럼 활동(ACT)해야죠.
+            </div>
+            <div class="main-pd-9izie7 developer-ceylon-style">
+              <span class="span1-XuVCqA">Main PD </span><span class="span2-XuVCqA">손태원</span>
+            </div>
+          </div>
+          <div class="row-2-SHDHHB">
+            <img
+              class="rectangle-B227zD"
+              src="img/developer-sw-page-rectangle-6AB47522-6D1A-4D9D-82B3-8555CF30E834@2x.png"
+            />
+            <div class="x100-experie-B227zD itisdongari">100시간 이상의 개발 Experience</div>
+            <div class="textlabel-B227zD dongariactfuck learn-more-style">
+              에너지 드링크를 마시는 실무 경험이 필요하다고요? 환영합니다! 저희 NALSSAM에서는 5일안에 100시간 이상의
+              개발 경헙을 쌓을 수 있습니다. 당신의 개발인생이 NALSSAM 전과 NALSSAM 후로 나뉠것입니다. 어떻게
+              장담하냐고요? 저희를 보세요.XD
+            </div>
+            <div class="developer-ceylon-B227zD developer-ceylon-style">Developer Ceylon</div>
+          </div>
+          <div class="row-3-SHDHHB">
+            <div class="developer-omen-qHbjxi developer-ceylon-style">Developer OMEN</div>
+            <img
+              class="rectangle-qHbjxi"
+              src="img/developer-sw-page-rectangle-18F7826B-734B-43FB-B4FE-72E34901A616@2x.png"
+            />
+            <div class="x-qHbjxi itisdongari">인공지능 선두 동아리!!</div>
+            <div class="x-X7ihBz dongariactfuck learn-more-style">
+              경고 : 부적절한 내용이 포함됩니다. Object Detection 인공지능을 구현 해보셨나요? 만약 구현 하실때
+              인공신경망을 구축하실 때 어떤 느낌이 드셨나요? 사랑? 그 사랑이란 어떤 것이죠? 이성적 사랑? 저희는
+              인공지능에게 아버지가 딸에게 느끼는 감정을 가집니다. 이제 NALSSAM과 함께해 보세요. 그럼, “그래, 바로
+              이거야”를 연발하게 될 테니까요.
+            </div>
+          </div>
+          <div class="row-4-SHDHHB">
+            <img
+              class="rectangle-0Ss1Vv"
+              src="img/developer-sw-page-rectangle-8FEE4BF0-627B-4590-96BE-378D1FB6FB5D@2x.png"
+            />
+            <div class="x1-on-1-developer-0Ss1Vv itisdongari">1-on-1 Developer 멘토링</div>
+            <div class="x-0Ss1Vv dongariactfuck learn-more-style">
+              저희는 당신이 앤드류 응, 니콜라스, 레스터와 같이 코딩에 유능할 것이라고 생각하지 않습니다. 오히려,
+              블럭코딩을 배우는 초등학생에 가깝다고 생각하죠. 당신들의 코딩 실력을 키우기 위해 만든 시스템인 1-on-1
+              Developer 멘토링입니다. FO4의 선수 강화랑 똑같은 것이라고 생각하세요. 1-on-1 Developer 멘토링도 마찬가지로
+              성공할 수 있고 실패할 수도 있습니다. 생각해보세요, 당신의 굴리트가 강화 실패를 했다고. 어떻게 하실 건가요?
+            </div>
+            <div class="developer-omen-0Ss1Vv developer-ceylon-style">Developer OMEN</div>
+          </div>
+          <div class="row-5-SHDHHB">
+            <img
+              class="rectangle-zLnIrx"
+              src="img/developer-sw-page-rectangle-DA354685-7CC6-440A-9474-AEFCA7AA0DDF@2x.png"
+            />
+            <div class="design-zLnIrx itisdongari">Design도 빠질수 없다</div>
+            <div class="x-prototype-zLnIrx dongariactfuck learn-more-style">
+              개발 후 나온 Prototype에 빠질 수 없는 것이 있습니다. 기술력? 속도감? 아뇨, 바로 미적 조화입니다. 똑같이
+              저희가 생각하는 Nalssam의 인재에게는 Design감각이 필요합니다. 만약 없다면요? 변태적이 개발적인 감각이
+              필요하죠…
+            </div>
+            <div class="designer-zLnIrx developer-ceylon-style">
+              <span class="span1-GOJi9i">Designer&nbsp;&nbsp;</span><span class="span2-GOJi9i">오도영</span>
+            </div>
+          </div>
+          <div class="row-6-SHDHHB">
+            <img
+              class="rectangle-snhygm"
+              src="img/developer-sw-page-rectangle-F2467CD2-2828-467B-A221-7E291C62DE87@2x.png"
+            />
+            <div class="naldev-2020-snhygm itisdongari">NALDEV 2020 날샘 활동내역</div>
+            <div class="posco-ict-2020-snhygm dongariactfuck learn-more-style">
+              대외 활동<br />POSCO ICT 2020 AI Challenge 우수상 수상 - (주) 포스코 / 캡칭플랜츠 앱 제작<br />2020 300
+              부총리겸 교육부 장관 인증서 / 캡칭플랜츠<br />2020 데이터 크리에이터 캠프 우수상 수상 - 한국 정보화진흥원
+              / 부동산 가치 예측 모델 / 인공지능 실험<br />2020 어·아·창” 비대면 모의 창업경진대회 결선 진출 / 온라인
+              쇼핑몰 운영<br />2020 대한민국 청소년 온라인 창업경진대회 결선 진출 / 동아리 비즈쿨 활동<br /><br />프로젝트<br />동아리
+              온라인 정기 발표회 ‘날포지엄’ (1차 - 자유주제 / 2차 - 포스트코로나시대 / 3차 - 스마트 팜)<br />온라인 정기
+              미팅<br />밤샘 DAY<br />비접촉 체온측정 인공지능 개발<br />온라인 소핑몰 운영 및 IR / 인강 (어아창)<br />인공지능
+              ImageClassification 모델 정확도 상승 실험, 부동산 가치 예측 모델 제작 (데이터 크리에이터 캠프)<br /><br /><br />
+            </div>
+          </div>
+        </div>
+        <div class="bar-C61RwL">
+          <div class="footer-enIJlq">
+            <div class="group-ZXviDO">
+              <div class="vr-mmDlSt"></div>
+              <div class="vr-copy-mmDlSt"></div>
+              <div class="textlabel-mmDlSt naldev-style">동아리 실 위치</div>
+              <div class="x1-mmDlSt naldev-style">실험동 1층 유도실 옆</div>
+              <div class="x010-8402-2173-mmDlSt naldev-style">인사팀 문의 010 8402 2173</div>
+            </div>
+            <div class="x010-29-ZXviDO naldev-style">날샘 문의사항 대표연락처(010 2997 9675)</div>
+            <div class="hr-ZXviDO"></div>
+            <div class="nalssam-ZXviDO naldev-style">
+              NALSSAM 동아리의 관련 문의는 모두 카카오톡 채널 : nalssam 을 통해 받습니다.
+            </div>
+            <div class="naldev-ZXviDO naldev-style">NALDEV</div>
+            <img
+              class="chevron-ZXviDO"
+              src="img/developer-sw-page-chevron-516AC05D-1FE2-4F25-A8F4-D436262002BA@2x.png"
+            />
+            <div class="hr-Ij0EpA"></div>
+          </div>
+          <a href="maindesktop.html"><div class="nalssam-enIJlq nalssam-style designed-by-omen-style">NALSSAM</div></a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
