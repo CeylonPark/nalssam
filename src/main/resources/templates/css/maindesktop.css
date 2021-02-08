@@ -5,6 +5,11 @@
   font-size: 14px;
   letter-spacing: 0.00px;
 }
+.blacknalssam {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
 .datefont {
   font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
   font-size: 12px;
@@ -21,6 +26,16 @@
   letter-spacing: -0.37px;
 }
 .dongariactfuck {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.ideaimformation {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   font-size: 17px;
   letter-spacing: -0.37px;
@@ -56,28 +71,21 @@
   position: relative;
   width: 1440px;
 }
-.maindesktop .bitmap-UOcbxe {
+.maindesktop .bar-C61RwL {
   background-color: transparent;
-  background-image: url(../img/maindesktop-bitmap-5170B43D-E93A-48B1-A71A-F6B34B9ACAA7.png);
-  background-size: 100% 100%;
-  height: 361px;
+  height: 146px;
+  left: -1px;
+  position: absolute;
+  top: 3397px;
+  width: 1440px;
+}
+.maindesktop .footer-enIJlq {
+  background-color: var(--black);
+  height: 146px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 725px;
-}
-.maindesktop .designed-by-omen-5l5ivn {
-  background-color: transparent;
-  color: var(--white);
-  font-weight: 200;
-  height: auto;
-  left: 669px;
-  line-height: 15px;
-  position: absolute;
-  text-align: left;
-  top: 100px;
-  white-space: nowrap;
-  width: auto;
+  width: 1440px;
 }
 .maindesktop .group-C61RwL {
   background-color: transparent;
@@ -87,7 +95,31 @@
   top: 120px;
   width: 1440px;
 }
-.maindesktop .icon-Dfics9 {
+.maindesktop .group-ZXviDO {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 101px;
+  width: 338px;
+}
+.maindesktop .hr-Ij0EpA {
+  background-color: var(--mine-shaft-2);
+  height: 1px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 980px;
+}
+.maindesktop .hr-ZXviDO {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 246px;
+  position: absolute;
+  top: 92px;
+  width: 949px;
+}
+.maindesktop .icon-T5zvdP {
   background-color: transparent;
   height: 12px;
   left: 80px;
@@ -95,9 +127,27 @@
   top: 7px;
   width: 7px;
 }
+.maindesktop .icon-TGvB4n {
+  background-color: transparent;
+  height: 12px;
+  left: 80px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+.maindesktop .img9696-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/maindesktop-img9696-1A465297-B056-48EF-A1A3-F0B3B52318C9.png);
+  background-size: 100% 100%;
+  height: 361px;
+  left: -60px;
+  position: absolute;
+  top: 2151px;
+  width: 780px;
+}
 .maindesktop .kakao-talk-7-00-42-38-NOXmfT {
   background-color: transparent;
-  background-image: url(../img/maindesktop-kakaotalkphoto2021-02-07-00-42-38-A3F27B70-A0EC-490C-B7CE-CE8C18EF5EB3.png);
+  background-image: url(../img/maindesktop-kakaotalkphoto2021-02-07-00-42-38-390DB5E9-1777-4E02-9C1E-74C786156253.png);
   background-size: 100% 100%;
   height: 570px;
   left: 0px;
@@ -105,7 +155,7 @@
   top: 0px;
   width: 720px;
 }
-.maindesktop .learn-more-Dfics9 {
+.maindesktop .learn-more-T5zvdP {
   background-color: transparent;
   color: var(--dodger-blue);
   font-weight: 400;
@@ -118,12 +168,33 @@
   white-space: nowrap;
   width: 75px;
 }
-.maindesktop .link-Fx9rlE {
+.maindesktop .learn-more-TGvB4n {
+  background-color: transparent;
+  color: var(--dodger-blue);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 75px;
+}
+.maindesktop .link-16doD8 {
   background-color: transparent;
   height: 25px;
   left: 0px;
   position: absolute;
   top: 435px;
+  width: 87px;
+}
+.maindesktop .link-lzoPek {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  top: 436px;
   width: 87px;
 }
 .maindesktop .mask-9Yx1Kk {
@@ -136,19 +207,6 @@
 }
 .maindesktop .nalssam-5l5ivn {
   background-color: transparent;
-  color: var(--white);
-  font-weight: 700;
-  height: auto;
-  left: 641px;
-  line-height: 42px;
-  position: absolute;
-  text-align: left;
-  top: 49px;
-  white-space: nowrap;
-  width: auto;
-}
-.maindesktop .nalssam-Cx6Qs5 {
-  background-color: transparent;
   color: var(--black);
   font-weight: 700;
   height: auto;
@@ -159,6 +217,34 @@
   top: 44px;
   white-space: nowrap;
   width: auto;
+}
+.maindesktop .nalssam-LM28U6 {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 200;
+  height: auto;
+  left: 496px;
+  line-height: 15px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 3px;
+  white-space: nowrap;
+  width: 57px;
+}
+.maindesktop .nalssam-RnTQO0 {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 200;
+  height: auto;
+  left: 496px;
+  line-height: 15px;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 3px;
+  white-space: nowrap;
+  width: 57px;
 }
 .maindesktop .nalssam-YP9PVx {
   background-color: transparent;
@@ -174,19 +260,30 @@
   white-space: nowrap;
   width: auto;
 }
-.maindesktop .nalssam-xHz8XV {
+.maindesktop .nalssam-ZXviDO {
   background-color: transparent;
-  color: var(--black);
+  color: var(--quick-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.maindesktop .nalssam-enIJlq {
+  background-color: transparent;
+  color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 496px;
+  left: 250px;
   line-height: 15px;
   position: absolute;
-  text-align: right;
-  text-decoration: underline;
-  top: 3px;
-  white-space: nowrap;
-  width: 57px;
+  text-align: center;
+  top: 31px;
+  width: 59px;
 }
 .maindesktop .photo-1520-1c9fe-copy-EsLsan {
   background-color: var(--black);
@@ -197,40 +294,79 @@
   top: 0px;
   width: 721px;
 }
-.maindesktop .span1-2HcSsv {
+.maindesktop .span1-0HgRQE {
   letter-spacing: 0.00px;
 }
-.maindesktop .span2-2HcSsv {
+.maindesktop .span1-yN6d6y {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span2-0HgRQE {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   letter-spacing: 0.00px;
 }
-.maindesktop .span3-2HcSsv {
-  letter-spacing: 0.00px;
-}
-.maindesktop .span4-2HcSsv {
+.maindesktop .span2-yN6d6y {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   letter-spacing: 0.00px;
 }
-.maindesktop .span5-2HcSsv {
+.maindesktop .span3-0HgRQE {
   letter-spacing: 0.00px;
 }
-.maindesktop .span6-2HcSsv {
+.maindesktop .span3-yN6d6y {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span4-0HgRQE {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   letter-spacing: 0.00px;
 }
-.maindesktop .span7-2HcSsv {
-  letter-spacing: 0.00px;
-}
-.maindesktop .span8-2HcSsv {
+.maindesktop .span4-yN6d6y {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   letter-spacing: 0.00px;
 }
-.maindesktop .sw-C61RwL {
+.maindesktop .span5-0HgRQE {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span5-yN6d6y {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span6-0HgRQE {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.maindesktop .span6-yN6d6y {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.maindesktop .span7-0HgRQE {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span7-yN6d6y {
+  letter-spacing: 0.00px;
+}
+.maindesktop .span8-0HgRQE {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.maindesktop .span8-yN6d6y {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.maindesktop .stacked-group-C61RwL {
+  align-items: center;
   background-color: transparent;
-  height: 460px;
-  left: 147px;
+  display: flex;
+  flex-direction: row;
+  height: 461px;
+  justify-content: flex-start;
+  left: 141px;
   position: absolute;
-  top: 807px;
+  top: 806px;
+  width: auto;
+}
+.maindesktop .sw-SHDHHB {
+  background-color: transparent;
+  height: 461px;
+  margin: 0;
+  position: relative;
   width: 559px;
 }
 .maindesktop .sw-hw-YP9PVx {
@@ -245,6 +381,22 @@
   top: 268px;
   white-space: nowrap;
   width: 503px;
+}
+.maindesktop .sw-picture-TzM2mw {
+  background-color: transparent;
+  height: 345px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 559px;
+}
+.maindesktop .sw-picture-lzoPek {
+  background-color: transparent;
+  height: 345px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 559px;
 }
 .maindesktop .textlabel-C61RwL {
   background-color: transparent;
@@ -310,6 +462,36 @@
   white-space: nowrap;
   width: auto;
 }
+.maindesktop .textlabel-mmDlSt {
+  background-color: transparent;
+  color: var(--quick-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.maindesktop .the-hard-ware-SHDHHB {
+  background-color: transparent;
+  height: 460px;
+  margin: 0 0 0 40px;
+  position: relative;
+  width: 559px;
+}
+.maindesktop .the-hard-ware-TpBRmO {
+  background-color: transparent;
+  background-image: url(../img/maindesktop-the-hardwareuc0acuc9c4-06E6570D-2F61-4068-94EA-849635949648.png);
+  background-size: 100% 100%;
+  height: 345px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 559px;
+}
 .maindesktop .video-C61RwL {
   background-color: transparent;
   height: 646px;
@@ -319,29 +501,29 @@
   top: 2638px;
   width: 1141px;
 }
-.maindesktop .view-1xZGOs {
-  background-color: transparent;
-  height: 67px;
-  left: 2px;
-  position: absolute;
-  top: 358px;
-  width: 557px;
-}
-.maindesktop .view-C61RwL {
-  background-color: transparent;
-  height: 361px;
-  left: 0px;
-  position: absolute;
-  top: 2151px;
-  width: 1440px;
-}
-.maindesktop .view-Fx9rlE {
+.maindesktop .view-16doD8 {
   background-color: transparent;
   height: 425px;
   left: 0px;
   position: absolute;
   top: 0px;
   width: 559px;
+}
+.maindesktop .view-BB10vM {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 557px;
+}
+.maindesktop .view-C61RwL {
+  background-color: transparent;
+  height: 361px;
+  left: 719px;
+  position: absolute;
+  top: 2151px;
+  width: 721px;
 }
 .maindesktop .view-N77PsP {
   background-color: transparent;
@@ -371,17 +553,17 @@
 .maindesktop .view-UOcbxe {
   background-color: transparent;
   height: 361px;
-  left: 719px;
-  position: absolute;
+  left: 0px;
+  position: relative;
   top: 0px;
   width: 721px;
 }
 .maindesktop .view-VMr6Om {
-  background-color: var(--black);
-  height: 163px;
+  background-color: var(--white);
+  height: 120px;
   left: 0px;
   position: absolute;
-  top: 3380px;
+  top: 0px;
   width: 1440px;
 }
 .maindesktop .view-YP9PVx {
@@ -401,47 +583,112 @@
   top: 0px;
   width: 721px;
 }
-.maindesktop .view-mzXdH9 {
-  background-color: var(--white);
-  height: 120px;
-  left: 0px;
+.maindesktop .view-lzoPek {
+  background-color: transparent;
+  height: 68px;
+  left: 2px;
   position: absolute;
-  top: 0px;
-  width: 1440px;
+  top: 358px;
+  width: 557px;
 }
-.maindesktop .viewname-K7Vdqz {
+.maindesktop .view-rWpX6S {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 557px;
+}
+.maindesktop .viewname-BzxCk6 {
   align-items: stretch;
   background-color: transparent;
   display: flex;
   flex-direction: row;
-  height: 425px;
+  height: 68px;
   justify-content: flex-start;
   left: 0px;
   position: relative;
   top: 0px;
   width: auto;
 }
-.maindesktop .x1-1xZGOs {
+.maindesktop .viewname-TpBRmO {
+  align-items: stretch;
   background-color: transparent;
-  height: 345px;
-  left: 0px;
+  display: flex;
+  flex-direction: row;
+  height: 68px;
+  justify-content: flex-start;
+  left: 2px;
   position: absolute;
-  top: 0px;
-  width: 559px;
+  top: 357px;
+  width: auto;
 }
-.maindesktop .x1-MbxXpx {
+.maindesktop .vr-copy-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 195px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.maindesktop .vr-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 78px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.maindesktop .x010-29-ZXviDO {
   background-color: transparent;
-  height: 345px;
-  left: 0px;
+  color: var(--quick-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
   position: absolute;
-  top: 0px;
-  width: 559px;
+  text-align: left;
+  top: 101px;
+  white-space: nowrap;
+  width: auto;
 }
-.maindesktop .x2-930pjK {
+.maindesktop .x010-8402-2173-mmDlSt {
+  background-color: transparent;
+  color: var(--quick-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.maindesktop .x1-mmDlSt {
+  background-color: transparent;
+  color: var(--quick-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.maindesktop .x2-rsDJhO {
   background-color: transparent;
   margin: 0;
   position: relative;
-  width: 559px;
+  width: 557px;
+}
+.maindesktop .x2-zraioE {
+  background-color: transparent;
+  margin: 0;
+  position: relative;
+  width: 557px;
 }
 .maindesktop .x2020-C61RwL {
   background-color: transparent;
@@ -456,7 +703,20 @@
   white-space: nowrap;
   width: auto;
 }
-.maindesktop .x2020-nalssam-sw-xHz8XV {
+.maindesktop .x2020-nalssam-sw-RnTQO0 {
+  background-color: transparent;
+  color: rgba(31,31,29,1.0);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  white-space: nowrap;
+  width: 557px;
+}
+.maindesktop .x2020-nalssam-the-h-LM28U6 {
   background-color: transparent;
   color: rgba(31,31,29,1.0);
   font-weight: 400;
@@ -482,7 +742,20 @@
   white-space: nowrap;
   width: auto;
 }
-.maindesktop .x20210301-xHz8XV {
+.maindesktop .x20210301-LM28U6 {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 129px;
+}
+.maindesktop .x20210301-RnTQO0 {
   background-color: transparent;
   color: var(--black);
   font-weight: 200;
@@ -545,16 +818,30 @@
   font-size: 17px;
   letter-spacing: -0.37px;
 }
+.the-hardware-style {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
 .watchrightnow {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   font-size: 21px;
   letter-spacing: 0.23px;
 }
+.youridea {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
 :root {
   --black: rgba(0,0,0,1.0);
   --cultured-pearl: rgba(245,245,247,1.0);
   --dodger-blue: rgba(41,151,255,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --mine-shaft-2: rgba(51,51,51,1.0);
   --quick-silver: rgba(161,161,166,1.0);
+  --sonic-silver: rgba(117,117,121,1.0);
   --suva-gray: rgba(136,136,136,1.0);
+  --tundora: rgba(66,66,69,1.0);
   --white: rgba(255,255,255,1.0);
 }

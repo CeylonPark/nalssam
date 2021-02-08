@@ -1,0 +1,516 @@
+/* screen - hwpage */
+
+.bestdongari2020 {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.blacknalssam {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.datefont {
+  font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: 6.00px;
+}
+.designed-by-omen-style {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.developer-ceylon-style {
+  font-family: "SFProText-Regular", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.37px;
+}
+.dongariactfuck {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.hwpage {
+  background-color: var(--white);
+  height: 3322px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.hwpage .bar-C61RwL {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 3176px;
+  width: 1440px;
+}
+.hwpage .button-dIx87p {
+  background-color: rgba(0,113,227,1.0);
+  height: 24px;
+  left: 1050px;
+  position: absolute;
+  top: 14px;
+  width: 123px;
+}
+.hwpage .chevron-ZXviDO {
+  background-color: transparent;
+  height: 11px;
+  left: 324px;
+  opacity: 0.5;
+  position: absolute;
+  top: 31px;
+  transform: rotate(45deg);
+  width: 12px;
+}
+.hwpage .color-dif-C61RwL {
+  background-color: rgba(250,250,250,1.0);
+  height: 1362px;
+  left: 0px;
+  position: absolute;
+  top: 1176px;
+  width: 1440px;
+}
+.hwpage .footer-enIJlq {
+  background-color: var(--cultured-pearl);
+  height: 146px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+.hwpage .group-2-C61RwL {
+  background-color: transparent;
+  height: 159px;
+  left: 650px;
+  position: absolute;
+  top: 1297px;
+  width: 140px;
+}
+.hwpage .group-ZXviDO {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 101px;
+  width: 338px;
+}
+.hwpage .hr-Ij0EpA {
+  background-color: rgba(227,227,231,1.0);
+  height: 1px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 980px;
+}
+.hwpage .hr-ZXviDO {
+  background-color: rgba(227,227,231,0.949);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 92px;
+  width: 947px;
+}
+.hwpage .hr-dIx87p {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1440px;
+}
+.hwpage .hw-ZGAt1V {
+  background-color: transparent;
+  color: rgba(17,17,17,1.0);
+  font-weight: 700;
+  height: auto;
+  left: 34px;
+  line-height: 52.0px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: auto;
+}
+.hwpage .hw-h90qLU {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: 722px;
+}
+.hwpage .icon-mmyxxG {
+  background-color: transparent;
+  height: 23px;
+  left: 164px;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+.hwpage .link-ZGAt1V {
+  background-color: transparent;
+  height: 30px;
+  left: 265px;
+  position: absolute;
+  top: 157px;
+  width: 187px;
+}
+.hwpage .nalssam-C61RwL {
+  background-color: transparent;
+  color: rgba(0,0,0,0.8);
+  font-weight: 200;
+  height: auto;
+  left: 250px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 3207px;
+  width: 59px;
+}
+.hwpage .nalssam-UOcbxe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 280px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .nalssam-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .nalssam-logo-zUixHA {
+  background-color: transparent;
+  height: 121px;
+  left: 10px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+.hwpage .navbar-UOcbxe {
+  background-color: var(--mine-shaft-2);
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.hwpage .oval-WZtRnH {
+  background-color: transparent;
+  border: 1.5px solid var(--dodger-blue);
+  border-radius: 23px;
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+.hwpage .pikachu-photo-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/hw-page-pikachuphoto-39A19FD8-B1FC-4E1A-A156-BAE36A4A9334.png);
+  background-size: 100% 100%;
+  height: 656px;
+  left: -14px;
+  position: absolute;
+  top: 415px;
+  width: 1468px;
+}
+.hwpage .textlabel-63crYe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 10px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 103px;
+}
+.hwpage .textlabel-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .textlabel-mmyxxG {
+  background-color: transparent;
+  color: var(--dodger-blue);
+  font-weight: 400;
+  height: auto;
+  left: -1px;
+  line-height: 29.0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .the-hard-ware-ZGAt1V {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 291px;
+  line-height: 29.0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 140px;
+}
+.hwpage .the-hard-ware-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: -0px;
+  line-height: 29.0px;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  white-space: nowrap;
+  width: 140px;
+}
+.hwpage .the-hardwa-mformation-C61RwL {
+  background-color: transparent;
+  height: 318px;
+  left: 359px;
+  position: absolute;
+  top: 138px;
+  width: 722px;
+}
+.hwpage .the-hw-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 345px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .triangle-WZtRnH {
+  background-color: transparent;
+  height: 10px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  transform: rotate(90deg);
+  width: 10px;
+}
+.hwpage .view-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.hwpage .vr-copy-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 195px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.hwpage .vr-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 78px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.hwpage .x-C61RwL {
+  background-color: transparent;
+  color: rgba(17,17,17,1.0);
+  font-weight: 700;
+  height: auto;
+  left: 473px;
+  line-height: 52.0px;
+  position: absolute;
+  text-align: center;
+  top: 1492px;
+  width: auto;
+}
+.hwpage .x010-29-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .x010-8402-2173-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.hwpage .x1-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.ideaimformation {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.itisdongari {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 32px;
+  letter-spacing: 0.13px;
+}
+.ji1style {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 12px;
+}
+.korean {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 28px;
+  letter-spacing: 0.00px;
+}
+.learn-more-style {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.littlenalssammarkerfelt {
+  font-family: "MarkerFelt-Wide", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.naldev-style {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.naldevfront {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
+.nalssam-style {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.nalssam-text-logo-style {
+  font-family: "MarkerFelt-Wide", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.nalssambusy {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 18px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogo {
+  font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: 0.00px;
+}
+.nalssamnewcrew {
+  font-family: "SFProText-Regular", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: 0.00px;
+}
+.newcrewofsw {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.numberfont {
+  font-family: "OriyaSangamMN", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 7.00px;
+}
+.thanks {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.the-hardware-style {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.watchrightnow {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.youridea {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cultured-pearl: rgba(245,245,247,1.0);
+  --dodger-blue: rgba(41,151,255,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --mine-shaft-2: rgba(51,51,51,1.0);
+  --quick-silver: rgba(161,161,166,1.0);
+  --sonic-silver: rgba(117,117,121,1.0);
+  --suva-gray: rgba(136,136,136,1.0);
+  --tundora: rgba(66,66,69,1.0);
+  --white: rgba(255,255,255,1.0);
+}

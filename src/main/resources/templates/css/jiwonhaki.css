@@ -1,0 +1,425 @@
+/* screen - jiwonhaki */
+
+.bestdongari2020 {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.blacknalssam {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.datefont {
+  font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: 6.00px;
+}
+.designed-by-omen-style {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.developer-ceylon-style {
+  font-family: "SFProText-Regular", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.37px;
+}
+.dongariactfuck {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.ideaimformation {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.itisdongari {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 32px;
+  letter-spacing: 0.13px;
+}
+.ji1style {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 12px;
+}
+.jiwonhaki {
+  background-color: var(--white);
+  height: 3322px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.jiwonhaki .bar-C61RwL {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 3176px;
+  width: 1440px;
+}
+.jiwonhaki .button-dIx87p {
+  background-color: rgba(0,113,227,1.0);
+  height: 24px;
+  left: 1050px;
+  position: absolute;
+  top: 14px;
+  width: 123px;
+}
+.jiwonhaki .chevron-ZXviDO {
+  background-color: transparent;
+  height: 11px;
+  left: 324px;
+  opacity: 0.5;
+  position: absolute;
+  top: 31px;
+  transform: rotate(45deg);
+  width: 12px;
+}
+.jiwonhaki .footer-enIJlq {
+  background-color: var(--cultured-pearl);
+  height: 146px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+.jiwonhaki .group-2-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/jiwonhaki-nalssam-logo-62D4886D-F326-41FC-8D29-D294A974AF43@2x.png);
+  background-size: 100% 100%;
+  height: 121px;
+  left: 659px;
+  position: absolute;
+  top: 141px;
+  width: 120px;
+}
+.jiwonhaki .group-ZXviDO {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 101px;
+  width: 338px;
+}
+.jiwonhaki .hr-Ij0EpA {
+  background-color: rgba(227,227,231,1.0);
+  height: 1px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 980px;
+}
+.jiwonhaki .hr-ZXviDO {
+  background-color: rgba(227,227,231,0.949);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 92px;
+  width: 947px;
+}
+.jiwonhaki .hr-dIx87p {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1440px;
+}
+.jiwonhaki .img9678-C61RwL {
+  background-color: transparent;
+  height: 811px;
+  left: 0px;
+  position: absolute;
+  top: 1661px;
+  width: 1440px;
+}
+.jiwonhaki .nalssam-C61RwL {
+  background-color: transparent;
+  color: rgba(0,0,0,0.8);
+  font-weight: 200;
+  height: auto;
+  left: 250px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 3207px;
+  width: 59px;
+}
+.jiwonhaki .nalssam-UOcbxe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 280px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .nalssam-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 641px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 267px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .nalssam-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .navbar-UOcbxe {
+  background-color: var(--mine-shaft-2);
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.jiwonhaki .span2-ZmHEo7 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+}
+.jiwonhaki .textlabel-63crYe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 10px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 103px;
+}
+.jiwonhaki .textlabel-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 345px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .textlabel-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .view-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.jiwonhaki .vr-copy-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 195px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.jiwonhaki .vr-mmDlSt {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 78px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.jiwonhaki .x-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 36px;
+  font-weight: 200;
+  height: auto;
+  left: 423px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 928px;
+  width: auto;
+}
+.jiwonhaki .x010-29-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .x010-8402-2173-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .x1-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.jiwonhaki .x2021-4-C61RwL {
+  background-color: transparent;
+  color: rgba(17,17,17,1.0);
+  font-weight: 700;
+  height: auto;
+  left: 492px;
+  line-height: 52.0px;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: auto;
+}
+.korean {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 28px;
+  letter-spacing: 0.00px;
+}
+.learn-more-style {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.littlenalssammarkerfelt {
+  font-family: "MarkerFelt-Wide", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.naldev-style {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.naldevfront {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
+.nalssam-style {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.nalssam-text-logo-style {
+  font-family: "MarkerFelt-Wide", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.nalssambusy {
+  font-family: "KoreanBRS-B", Helvetica, Arial, serif;
+  font-size: 18px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogo {
+  font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: 0.00px;
+}
+.nalssamnewcrew {
+  font-family: "SFProText-Regular", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: 0.00px;
+}
+.newcrewofsw {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.numberfont {
+  font-family: "OriyaSangamMN", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 7.00px;
+}
+.thanks {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
+.the-hardware-style {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.watchrightnow {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
+}
+.youridea {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cultured-pearl: rgba(245,245,247,1.0);
+  --dodger-blue: rgba(41,151,255,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --mine-shaft-2: rgba(51,51,51,1.0);
+  --quick-silver: rgba(161,161,166,1.0);
+  --sonic-silver: rgba(117,117,121,1.0);
+  --suva-gray: rgba(136,136,136,1.0);
+  --tundora: rgba(66,66,69,1.0);
+  --white: rgba(255,255,255,1.0);
+}

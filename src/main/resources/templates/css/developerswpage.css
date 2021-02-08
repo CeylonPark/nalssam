@@ -5,6 +5,11 @@
   font-size: 14px;
   letter-spacing: 0.00px;
 }
+.blacknalssam {
+  font-family: "MarkerFelt-Thin", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
 .datefont {
   font-family: "AppleSDGothicNeo-Thin", Helvetica, Arial, serif;
   font-size: 12px;
@@ -59,7 +64,7 @@
   top: 3176px;
   width: 1440px;
 }
-.developerswpage .button-8MJZIW {
+.developerswpage .button-xRSRpX {
   background-color: rgba(0,113,227,1.0);
   height: 24px;
   left: 1050px;
@@ -162,6 +167,14 @@
   top: 0px;
   width: 1440px;
 }
+.developerswpage .group-2-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
 .developerswpage .group-ZXviDO {
   background-color: transparent;
   height: 18px;
@@ -170,16 +183,8 @@
   top: 101px;
   width: 338px;
 }
-.developerswpage .hr-8MJZIW {
-  background-color: rgba(51,51,51,0.949);
-  height: 1px;
-  left: 0px;
-  position: absolute;
-  top: 52px;
-  width: 1440px;
-}
 .developerswpage .hr-Ij0EpA {
-  background-color: rgba(51,51,51,1.0);
+  background-color: var(--mine-shaft-2);
   height: 1px;
   left: 230px;
   position: absolute;
@@ -187,12 +192,20 @@
   width: 980px;
 }
 .developerswpage .hr-ZXviDO {
-  background-color: rgba(51,51,51,0.949);
+  background-color: var(--mine-shaft);
   height: 1px;
-  left: 230px;
+  left: 246px;
   position: absolute;
   top: 92px;
-  width: 980px;
+  width: 949px;
+}
+.developerswpage .hr-xRSRpX {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1440px;
 }
 .developerswpage .icon-XxM5ex {
   background-color: transparent;
@@ -280,25 +293,12 @@
   white-space: nowrap;
   width: auto;
 }
-.developerswpage .nalssam-C61RwL {
-  background-color: transparent;
-  color: var(--white);
-  font-weight: 200;
-  height: auto;
-  left: 280px;
-  line-height: 15px;
-  position: absolute;
-  text-align: center;
-  top: 19px;
-  white-space: nowrap;
-  width: auto;
-}
 .developerswpage .nalssam-ZXviDO {
   background-color: transparent;
   color: var(--quick-silver);
   font-weight: 400;
   height: auto;
-  left: 230px;
+  left: 250px;
   line-height: 16.0px;
   position: absolute;
   text-align: left;
@@ -330,7 +330,20 @@
   top: 31px;
   width: 59px;
 }
-.developerswpage .navbar-C61RwL {
+.developerswpage .nalssam-zUixHA {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 280px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+.developerswpage .navbar-zUixHA {
   background-color: transparent;
   height: 53px;
   left: 0px;
@@ -761,6 +774,19 @@
   white-space: nowrap;
   width: 58px;
 }
+.developerswpage .textlabel-gGMrEm {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 10px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 103px;
+}
 .developerswpage .textlabel-h7It44 {
   background-color: transparent;
   color: var(--dodger-blue);
@@ -773,19 +799,6 @@
   top: 0px;
   white-space: nowrap;
   width: auto;
-}
-.developerswpage .textlabel-likLiH {
-  background-color: transparent;
-  color: var(--white);
-  font-weight: 800;
-  height: auto;
-  left: 10px;
-  line-height: 22px;
-  position: absolute;
-  text-align: center;
-  top: 1px;
-  white-space: nowrap;
-  width: 103px;
 }
 .developerswpage .textlabel-mmDlSt {
   background-color: transparent;
@@ -818,7 +831,7 @@
   width: 722px;
 }
 .developerswpage .vr-copy-mmDlSt {
-  background-color: rgba(66,66,69,1.0);
+  background-color: var(--tundora);
   height: 16px;
   left: 195px;
   position: absolute;
@@ -826,7 +839,7 @@
   width: 1px;
 }
 .developerswpage .vr-mmDlSt {
-  background-color: rgba(66,66,69,1.0);
+  background-color: var(--tundora);
   height: 16px;
   left: 78px;
   position: absolute;
@@ -899,7 +912,7 @@
   color: var(--quick-silver);
   font-weight: 400;
   height: auto;
-  left: 230px;
+  left: 250px;
   line-height: 16.0px;
   position: absolute;
   text-align: left;
@@ -976,6 +989,16 @@
   font-size: 17px;
   letter-spacing: -0.37px;
 }
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.ideaimformation {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+}
 .itisdongari {
   font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
   font-size: 32px;
@@ -1040,22 +1063,40 @@
   font-size: 21px;
   letter-spacing: 0.23px;
 }
-
+.numberfont {
+  font-family: "OriyaSangamMN", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 7.00px;
+}
 .thanks {
   font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
   font-size: 17px;
   letter-spacing: -0.37px;
+}
+.the-hardware-style {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.23px;
 }
 .watchrightnow {
   font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
   font-size: 21px;
   letter-spacing: 0.23px;
 }
+.youridea {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -0.14px;
+}
 :root {
   --black: rgba(0,0,0,1.0);
   --cultured-pearl: rgba(245,245,247,1.0);
   --dodger-blue: rgba(41,151,255,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --mine-shaft-2: rgba(51,51,51,1.0);
   --quick-silver: rgba(161,161,166,1.0);
+  --sonic-silver: rgba(117,117,121,1.0);
   --suva-gray: rgba(136,136,136,1.0);
+  --tundora: rgba(66,66,69,1.0);
   --white: rgba(255,255,255,1.0);
 }
