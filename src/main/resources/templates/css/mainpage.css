@@ -1,0 +1,1662 @@
+/* screen - mainpage */
+
+.applesdgothicneo-extra-normal-black-25px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 25px;
+}
+.applesdgothicneo-extra-normal-black-48px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 48px;
+}
+.applesdgothicneo-heavy-normal-white-14px {
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 14px;
+}
+.applesdgothicneo-normal-black-15px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 15px;
+}
+.applesdgothicneo-normal-black-16px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 16px;
+}
+.applesdgothicneo-normal-black-24px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  font-size: 24px;
+}
+.applesdgothicneo-normal-black-36px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+}
+.applesdgothicneo-normal-caribbean-green-13px {
+  color: var(--caribbean-green);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 13px;
+}
+.applesdgothicneo-normal-white-12px {
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  font-size: 12px;
+}
+.applesdgothicneo-ultra-normal-black-20px {
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 20px;
+}
+.border-class-1 {
+  border: 1px solid rgba(150,150,150,1.0);
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.ji1style {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 12px;
+}
+.mainpage {
+  background-color: var(--white);
+  height: 8386px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.mainpage .asdfasddfafafga-fasdfasdf00007-7W8gCV {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+.mainpage .bar-C61RwL {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  position: absolute;
+  top: 8215px;
+  width: 1440px;
+}
+.mainpage .bio-sw-hw-bm-md-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 626px;
+  letter-spacing: -1.10px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 363px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .bm-logo-0pSOAs {
+  background-color: transparent;
+  height: 77px;
+  margin: 0 0 0 90px;
+  position: relative;
+  width: 61px;
+}
+.mainpage .bm-slave-zhj0T8 {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .business-3Vx7eT {
+  background-color: transparent;
+  height: 782px;
+  margin: 0 0 0 46px;
+  position: relative;
+  width: 207px;
+}
+.mainpage .business-slave-2nODz9 {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .button-C61RwL {
+  background-color: rgba(0,113,227,1.0);
+  height: 24px;
+  left: 683px;
+  position: absolute;
+  top: 392px;
+  width: 75px;
+}
+.mainpage .button-VMr6Om {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 683px;
+  position: absolute;
+  top: 392px;
+  width: 75px;
+}
+.mainpage .button-copy-2-2nODz9 {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 68px;
+  position: absolute;
+  top: 719px;
+  width: 75px;
+}
+.mainpage .button-copy-2-9Ze8NG {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 68px;
+  position: absolute;
+  top: 719px;
+  width: 75px;
+}
+.mainpage .button-copy-2-XgnFq2 {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 68px;
+  position: absolute;
+  top: 719px;
+  width: 75px;
+}
+.mainpage .button-copy-2-x5BIsH {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 68px;
+  position: absolute;
+  top: 721px;
+  width: 75px;
+}
+.mainpage .button-dIx87p {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 1067px;
+  position: absolute;
+  top: 15px;
+  width: 123px;
+}
+.mainpage .button-zUixHA {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 730px;
+  position: absolute;
+  top: 153px;
+  width: 75px;
+}
+.mainpage .comp-100000-9Ze8NG {
+  background-color: transparent;
+  background-image: url(../img/main-page-comp-100000-DD8E307B-84EA-4D59-B05A-0E0903AEED88@2x.png);
+  background-size: 100% 100%;
+  height: 290px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 205px;
+}
+.mainpage .copy-2-2nODz9 {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 24px;
+  letter-spacing: -1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  width: auto;
+}
+.mainpage .copy-2-9Ze8NG {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 24px;
+  letter-spacing: -1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  width: auto;
+}
+.mainpage .copy-2-XgnFq2 {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 24px;
+  letter-spacing: -1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 444px;
+  width: auto;
+}
+.mainpage .copy-2-x5BIsH {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 24px;
+  letter-spacing: -1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 446px;
+  width: auto;
+}
+.mainpage .cr-0pSOAs {
+  background-color: transparent;
+  height: 77px;
+  margin: 0 0 0 90px;
+  position: relative;
+  width: 61px;
+}
+.mainpage .cr-7W8gCV {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .footer-enIJlq {
+  background-color: var(--eerie-black);
+  height: 171px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+.mainpage .g-slave-0pSOAs {
+  background-color: transparent;
+  height: 77px;
+  margin: 0 0 0 90px;
+  position: relative;
+  width: 61px;
+}
+.mainpage .g-slave-3Vx7eT {
+  background-color: transparent;
+  height: 782px;
+  margin: 0 0 0 46px;
+  position: relative;
+  width: 207px;
+}
+.mainpage .g-slave-QsrL51 {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .green-slave-9Ze8NG {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .group-10-wz60dm {
+  background-color: transparent;
+  border: 1.8px solid rgba(150,150,150,1.0);
+  height: 36px;
+  left: 89px;
+  position: absolute;
+  top: 563px;
+  width: 192px;
+}
+.mainpage .group-12-copy-2nODz9 {
+  background-color: transparent;
+  height: 16px;
+  left: 71px;
+  position: absolute;
+  top: 766px;
+  width: 70px;
+}
+.mainpage .group-12-copy-9Ze8NG {
+  background-color: transparent;
+  height: 16px;
+  left: 71px;
+  position: absolute;
+  top: 766px;
+  width: 70px;
+}
+.mainpage .group-12-copy-XgnFq2 {
+  background-color: transparent;
+  height: 16px;
+  left: 71px;
+  position: absolute;
+  top: 766px;
+  width: 70px;
+}
+.mainpage .group-12-copy-x5BIsH {
+  background-color: transparent;
+  height: 16px;
+  left: 71px;
+  position: absolute;
+  top: 768px;
+  width: 70px;
+}
+.mainpage .group-13-C61RwL {
+  background: linear-gradient(180deg, #FFAA3D 0%, #FFDF61 100%);
+  background-color: transparent;
+  border-radius: 39px;
+  height: 827px;
+  left: 732px;
+  position: absolute;
+  top: 7277px;
+  width: 519px;
+}
+.mainpage .group-14-C61RwL {
+  background-color: transparent;
+  height: 827px;
+  left: 180px;
+  position: absolute;
+  top: 7277px;
+  width: 519px;
+}
+.mainpage .group-15-C61RwL {
+  background: linear-gradient(134deg, #B474FF 0%, #6B3ED0 100%);
+  background-color: transparent;
+  border-radius: 39px;
+  height: 681px;
+  left: 180px;
+  position: absolute;
+  top: 6568px;
+  width: 1071px;
+}
+.mainpage .group-2-C61RwL {
+  background-color: transparent;
+  height: 843px;
+  left: -46px;
+  position: absolute;
+  top: 1205px;
+  width: 1534px;
+}
+.mainpage .group-5-C61RwL {
+  background-color: transparent;
+  height: 755px;
+  left: 178px;
+  position: absolute;
+  top: 3312px;
+  width: 1082px;
+}
+.mainpage .group-7-3cZhlu {
+  background-color: transparent;
+  height: 20px;
+  left: 161px;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+.mainpage .group-8-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 641px;
+  position: absolute;
+  top: 2302px;
+  width: 172px;
+}
+.mainpage .group-9-C61RwL {
+  background-color: var(--white);
+  height: 679px;
+  left: 169px;
+  position: absolute;
+  top: 4027px;
+  width: 1081px;
+}
+.mainpage .group-ZXviDO {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 144px;
+  width: 338px;
+}
+.mainpage .hard-logo-0pSOAs {
+  background-color: transparent;
+  height: 77px;
+  margin: 0 0 0 90px;
+  position: relative;
+  width: 61px;
+}
+.mainpage .hard-slave-4tonIQ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .hard-ware-slave-x5BIsH {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 322px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .hr-Ij0EpA {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 114px;
+  width: 947px;
+}
+.mainpage .hr-ZXviDO {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 140px;
+  width: 947px;
+}
+.mainpage .hr-dIx87p {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1440px;
+}
+.mainpage .kakao-talk2021-pg-comp-100000-C61RwL {
+  background-color: transparent;
+  height: 637px;
+  left: 43px;
+  position: absolute;
+  top: 435px;
+  width: 1354px;
+}
+.mainpage .line-2-C61RwL {
+  background-color: transparent;
+  height: 132px;
+  left: 670px;
+  position: absolute;
+  top: 5062px;
+  width: 481px;
+}
+.mainpage .line-3-C61RwL {
+  background-color: transparent;
+  height: 299px;
+  left: 673px;
+  position: absolute;
+  top: 5193px;
+  width: 416px;
+}
+.mainpage .line-4-C61RwL {
+  background-color: transparent;
+  height: 257px;
+  left: 214px;
+  position: absolute;
+  top: 5491px;
+  width: 875px;
+}
+.mainpage .line-6tkUdT {
+  background-color: transparent;
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 10px;
+  width: 9px;
+}
+.mainpage .line-d71PT4 {
+  background-color: transparent;
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+.mainpage .more00000-0pSOAs {
+  background-color: transparent;
+  background-image: url(../img/main-page-more00000-AB0A246C-897D-4587-B176-CCE64B2585D2@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  margin: 0 0 0 90px;
+  position: relative;
+  width: 45px;
+}
+.mainpage .nalssam-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: 800;
+  height: auto;
+  left: 682px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 273px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-Cedx8m {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-weight: 700;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-Ij0EpA {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 1029px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  white-space: nowrap;
+  width: 170px;
+}
+.mainpage .nalssam-UOcbxe {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: 200;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 5101px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  white-space: nowrap;
+  width: 375px;
+}
+.mainpage .nalssam-iZjIT4 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 27px;
+  font-weight: 200;
+  height: auto;
+  left: 376px;
+  letter-spacing: -1.73px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-mzXdH9 {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 397px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 2231px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .nalssam-wz60dm {
+  background-color: transparent;
+  color: var(--lilac);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: auto;
+}
+.mainpage .nalssam-zUixHA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: 800;
+  height: auto;
+  left: 729px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .navbar-UOcbxe {
+  background-color: var(--cod-gray);
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.mainpage .path-copy-TzxRhO {
+  background-color: transparent;
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+.mainpage .path-copy-YC3vVu {
+  background-color: transparent;
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+.mainpage .path-copy-f5aRYK {
+  background-color: transparent;
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+.mainpage .path-copy-nRKO5y {
+  background-color: transparent;
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+.mainpage .rectangle-2P4qUJ {
+  background-color: transparent;
+  height: 551px;
+  left: 250px;
+  overflow: hidden;
+  position: absolute;
+  top: 4099px;
+  width: 940px;
+}
+.mainpage .rectangle-AX7pWk {
+  background: linear-gradient(180deg, #4D58FF 0%, #2F9BFF 100%);
+  background-color: transparent;
+  border-radius: 39px;
+  height: 827px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 519px;
+}
+.mainpage .rectangle-C61RwL {
+  background-color: rgba(242,242,242,1.0);
+  height: 1518px;
+  left: 0px;
+  position: absolute;
+  top: 3254px;
+  width: 1440px;
+}
+.mainpage .rectangle-KDnOep {
+  background-color: rgba(215,215,215,1.0);
+  height: 35px;
+  left: 101px;
+  position: absolute;
+  top: 662px;
+  width: 108px;
+}
+.mainpage .rectangle-QxM5SU {
+  background-color: var(--black);
+  height: 3453px;
+  left: 0px;
+  position: absolute;
+  top: 4768px;
+  width: 1440px;
+}
+.mainpage .rectangle-VMr6Om {
+  background-color: rgba(17,17,18,1.0);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 1440px;
+}
+.mainpage .rectangle-WQXeF1 {
+  background-color: rgba(215,215,215,1.0);
+  height: 35px;
+  left: 214px;
+  position: absolute;
+  top: 614px;
+  width: 108px;
+}
+.mainpage .rectangle-iZjIT4 {
+  background-color: var(--white);
+  height: 670px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 1081px;
+}
+.mainpage .rectangle-mzXdH9 {
+  background-color: var(--black);
+  height: 1016px;
+  left: 0px;
+  position: absolute;
+  top: 1118px;
+  width: 1440px;
+}
+.mainpage .rectangle-wz60dm {
+  background-color: rgba(215,215,215,1.0);
+  height: 412px;
+  left: 510px;
+  position: absolute;
+  top: 186px;
+  width: 460px;
+}
+.mainpage .soft-ware-3Vx7eT {
+  background-color: transparent;
+  height: 782px;
+  margin: 0 0 0 46px;
+  position: relative;
+  width: 207px;
+}
+.mainpage .soft-ware-slave-XgnFq2 {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .span1-K7HQMp {
+  letter-spacing: 0.00px;
+}
+.mainpage .span1-M5lFmx {
+  letter-spacing: 0.00px;
+}
+.mainpage .span1-azMH8n {
+  line-height: 29px;
+}
+.mainpage .span1-mJKRZh {
+
+}
+.mainpage .span1-ze14f9 {
+  letter-spacing: 0.00px;
+}
+.mainpage .span2-K7HQMp {
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.mainpage .span2-M5lFmx {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.mainpage .span2-azMH8n {
+  font-size: 38px;
+  line-height: 45px;
+}
+.mainpage .span2-mJKRZh {
+  color: rgba(255,255,255,1.0);
+}
+.mainpage .span2-ze14f9 {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  letter-spacing: 0.00px;
+}
+.mainpage .stacked-group-2-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 784px;
+  justify-content: flex-start;
+  left: 237px;
+  position: absolute;
+  top: 2373px;
+  width: auto;
+}
+.mainpage .stacked-group-3-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 77px;
+  justify-content: flex-start;
+  left: 320px;
+  position: absolute;
+  top: 61px;
+  width: auto;
+}
+.mainpage .sw-logo-0pSOAs {
+  background-color: transparent;
+  height: 77px;
+  margin: 0;
+  position: relative;
+  width: 61px;
+}
+.mainpage .sw-slave-sdsBoP {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .swlogo-sdsBoP {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+.mainpage .textlabel-0CD14O {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-0kOvHB {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: 700;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-2VcKwR {
+  background-color: transparent;
+  color: rgba(250,251,255,1.0);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 58px;
+  font-weight: 800;
+  height: auto;
+  left: 101px;
+  letter-spacing: -3.00px;
+  line-height: 69px;
+  position: absolute;
+  text-align: left;
+  top: 413px;
+  width: auto;
+}
+.mainpage .textlabel-3cZhlu {
+  background-color: transparent;
+  color: var(--caribbean-green);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 21px;
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-63crYe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 10px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 103px;
+}
+.mainpage .textlabel-8V7Q3m {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-AX7pWk {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 58px;
+  font-weight: 700;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 69px;
+  position: absolute;
+  text-align: left;
+  top: 545px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-J4aJvd {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-KDnOep {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 175px;
+  font-weight: 700;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: 211px;
+  position: absolute;
+  text-align: left;
+  top: 178px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-NmAHLx {
+  background-color: transparent;
+  color: rgba(227,227,227,1.0);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 199px;
+  font-weight: 700;
+  height: auto;
+  left: 175px;
+  letter-spacing: 0.00px;
+  line-height: 239px;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-TzxRhO {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.80px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-WQXeF1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 195px;
+  font-weight: 700;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 235px;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-YC3vVu {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.80px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-c8xGaS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: 700;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-f5aRYK {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.80px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-iZjIT4 {
+  background-color: transparent;
+  color: rgba(227,227,227,1.0);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 199px;
+  font-weight: 700;
+  height: auto;
+  left: 820px;
+  letter-spacing: 0.00px;
+  line-height: 239px;
+  position: absolute;
+  text-align: left;
+  top: 516px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 68px;
+}
+.mainpage .textlabel-nBixom {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-nRKO5y {
+  background-color: transparent;
+  font-weight: 200;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.80px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .textlabel-wb09k1 {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-xHxYv9 {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .textlabel-xZeQFa {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 6px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 63px;
+}
+.mainpage .the-hard-ware-3Vx7eT {
+  background-color: transparent;
+  height: 784px;
+  margin: 0;
+  position: relative;
+  width: 207px;
+}
+.mainpage .view-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.mainpage .vr-copy-ZXviDO {
+  background-color: var(--tundora);
+  height: 9px;
+  left: 1022px;
+  position: absolute;
+  top: 125px;
+  width: 1px;
+}
+.mainpage .vr-copy-mmDlSt {
+  background-color: var(--tundora);
+  height: 15px;
+  left: 195px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+.mainpage .vr-mmDlSt {
+  background-color: var(--tundora);
+  height: 15px;
+  left: 78px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+.mainpage .x-2018-steam-re-zUixHA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 24px;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  width: 1534px;
+}
+.mainpage .x-C61RwL {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 512px;
+  letter-spacing: -3.60px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .x-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  font-weight: 800;
+  height: auto;
+  left: 250px;
+  letter-spacing: -1.80px;
+  line-height: 57px;
+  position: absolute;
+  text-align: left;
+  top: 4914px;
+  width: auto;
+}
+.mainpage .x-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 751px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  white-space: nowrap;
+  width: 265px;
+}
+.mainpage .x-mzXdH9 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 60px;
+  font-weight: 700;
+  height: auto;
+  left: 465px;
+  letter-spacing: -3.48px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 3481px;
+  width: auto;
+}
+.mainpage .x-zUixHA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  font-weight: 800;
+  height: auto;
+  left: 603px;
+  letter-spacing: 0.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .x00000-XgnFq2 {
+  background-color: transparent;
+  height: 291px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 205px;
+}
+.mainpage .x00000-nx52HG {
+  background-color: transparent;
+  height: 291px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 205px;
+}
+.mainpage .x00001-4tonIQ {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+.mainpage .x00001-BVRyAg {
+  background-color: transparent;
+  height: 291px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 205px;
+}
+.mainpage .x00001-x5BIsH {
+  background-color: transparent;
+  height: 291px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 205px;
+}
+.mainpage .x00002-2nODz9 {
+  background-color: transparent;
+  background-image: url(../img/main-page-ub20600002-DB94084A-279B-4C38-B81E-C2196DE3C0BB@2x.png);
+  background-size: 100% 100%;
+  height: 290px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 206px;
+}
+.mainpage .x00002-zhj0T8 {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+.mainpage .x00003-removebg-iZjIT4 {
+  background-color: transparent;
+  height: 367px;
+  left: 1px;
+  position: absolute;
+  top: 303px;
+  width: 322px;
+}
+.mainpage .x00004-QsrL51 {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 61px;
+}
+.mainpage .x010-29-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 141px;
+  white-space: nowrap;
+  width: 201px;
+}
+.mainpage .x010-8402-2173-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 132px;
+}
+.mainpage .x1-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 96px;
+}
+.mainpage .x2-copy-2nODz9 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 382px;
+  width: 206px;
+}
+.mainpage .x2-copy-9Ze8NG {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 382px;
+  width: 206px;
+}
+.mainpage .x2-copy-EDirid {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 681px;
+  width: 206px;
+}
+.mainpage .x2-copy-Im9HFa {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 683px;
+  width: 206px;
+}
+.mainpage .x2-copy-XgnFq2 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 382px;
+  width: 206px;
+}
+.mainpage .x2-copy-et7ay9 {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 681px;
+  width: 206px;
+}
+.mainpage .x2-copy-w61oge {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 681px;
+  width: 206px;
+}
+.mainpage .x2-copy-x5BIsH {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 384px;
+  width: 206px;
+}
+.mainpage .x2020-20-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  font-weight: 700;
+  height: auto;
+  left: 835px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 5784px;
+  width: auto;
+}
+.mainpage .x2020-9dtg3L {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 17px;
+  font-weight: 700;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: 201px;
+}
+.mainpage .x2020-david-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  font-weight: 700;
+  height: auto;
+  left: 835px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 6347px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .x2021-unist-s-zUixHA {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: auto;
+  left: 606px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: auto;
+}
+.mainpage .x20210308-202103-WQXeF1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 36px;
+  font-weight: 600;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  top: 438px;
+  width: auto;
+}
+.mainpage .x3d-wz60dm {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 28px;
+  font-weight: 700;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 367px;
+  width: auto;
+}
+.naldev-style {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --caribbean-green: rgba(11,212,128,1.0);
+  --cod-gray: rgba(10,10,10,1.0);
+  --eerie-black: rgba(29,29,31,1.0);
+  --lilac: rgba(188,142,245,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --sonic-silver: rgba(117,117,121,1.0);
+  --tundora: rgba(66,66,69,1.0);
+  --tundora-2: rgba(66,66,69,0.949);
+  --white: rgba(255,255,255,1.0);
+}
