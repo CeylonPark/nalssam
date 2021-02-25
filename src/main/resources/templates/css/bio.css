@@ -118,7 +118,7 @@
   width: auto;
 }
 .bio .group-15-SHDHHB {
-  background: radial-gradient(96% 195%, #D4005D 96%, #F7B500 100%);
+  background: linear-gradient(180deg, #6DD400 0%, #F7B500 100%);
   background-color: transparent;
   border-radius: 39px;
   height: 681px;
