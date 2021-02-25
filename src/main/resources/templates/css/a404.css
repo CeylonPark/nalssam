@@ -1,0 +1,502 @@
+/* screen - a404 */
+
+.-style {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 199px;
+  letter-spacing: 0.00px;
+}
+.a404 {
+  background-color: var(--white);
+  height: 1197px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.a404 .bar-C61RwL {
+  background-color: transparent;
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 1110px;
+  width: 1440px;
+}
+.a404 .button-dIx87p {
+  background-color: var(--caribbean-green);
+  height: 24px;
+  left: 1067px;
+  position: absolute;
+  top: 15px;
+  width: 123px;
+}
+.a404 .error-404-page-not-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 800;
+  height: auto;
+  left: 427px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+  width: 586px;
+}
+.a404 .ester-egg-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: 1432px;
+  position: absolute;
+  top: 53px;
+  width: 8px;
+}
+.a404 .footer-enIJlq {
+  background-color: var(--eerie-black);
+  height: 87px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+.a404 .ghost-NOXmfT {
+  background-color: transparent;
+  height: 299px;
+  left: 283px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.a404 .group-C61RwL {
+  background-color: transparent;
+  height: 299px;
+  left: 313px;
+  position: absolute;
+  top: 396px;
+  width: 814px;
+}
+.a404 .group-ZXviDO {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 60px;
+  width: 338px;
+}
+.a404 .hr-Ij0EpA {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 30px;
+  width: 947px;
+}
+.a404 .hr-ZXviDO {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 56px;
+  width: 947px;
+}
+.a404 .hr-dIx87p {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 1440px;
+}
+.a404 .nalssam-Ij0EpA {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 1029px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 170px;
+}
+.a404 .nalssam-UOcbxe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 249px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+.a404 .nalssam-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 375px;
+}
+.a404 .navbar-UOcbxe {
+  background-color: var(--cod-gray);
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.a404 .textlabel-63crYe {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 10px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 103px;
+}
+.a404 .textlabel-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 68px;
+}
+.a404 .view-C61RwL {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.a404 .vr-copy-ZXviDO {
+  background-color: var(--tundora);
+  height: 9px;
+  left: 1022px;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+.a404 .vr-copy-mmDlSt {
+  background-color: var(--tundora);
+  height: 15px;
+  left: 195px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+.a404 .vr-mmDlSt {
+  background-color: var(--tundora);
+  height: 15px;
+  left: 78px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+.a404 .x-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 751px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  white-space: nowrap;
+  width: 265px;
+}
+.a404 .x010-29-ZXviDO {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  white-space: nowrap;
+  width: 201px;
+}
+.a404 .x010-8402-2173-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 132px;
+}
+.a404 .x1-mmDlSt {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 96px;
+}
+.a404 .x2-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 200;
+  height: auto;
+  left: 622px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  white-space: nowrap;
+  width: auto;
+}
+.a404 .x4-E582nk {
+  background-color: transparent;
+  color: rgba(62,188,168,1.0);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 400px;
+  font-weight: 400;
+  height: auto;
+  left: 560px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: -106px;
+  width: auto;
+}
+.a404 .x4-NOXmfT {
+  background-color: transparent;
+  color: rgba(62,188,168,1.0);
+  font-family: "Helvetica", Helvetica, Arial, serif;
+  font-size: 400px;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: -106px;
+  width: auto;
+}
+.aboutnalssam {
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 27px;
+  letter-spacing: -1.73px;
+}
+.aboutthenalssam {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.and {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.asd {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 28px;
+  letter-spacing: 0.00px;
+}
+.asdfad {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  letter-spacing: 0.00px;
+}
+.facetimestyle {
+  font-family: "SFCompact-Regular", Helvetica, Arial, serif;
+  font-size: 195px;
+  letter-spacing: 0.00px;
+}
+.google-ads--style {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 58px;
+  letter-spacing: -3.00px;
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.ji1style {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 12px;
+}
+.littleabout {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.92px;
+}
+.littlefonts {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.more {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 20px;
+  letter-spacing: -1.00px;
+}
+.moreim {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 20px;
+  letter-spacing: -1.00px;
+}
+.nalssamcr48 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogo {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogoblack {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.sd12 {
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: 0.00px;
+}
+.sd13green {
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 13px;
+  letter-spacing: -0.80px;
+}
+.sd21green {
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.00px;
+}
+.sd25 {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 25px;
+  letter-spacing: 0.00px;
+}
+.sd36 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: -2.22px;
+}
+.sd47blue {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48bold {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48colorfull {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48medium {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -1.80px;
+}
+.sd48newcolor {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd60 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 60px;
+  letter-spacing: -3.48px;
+}
+.sdidontknow {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.sdmedium24 {
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -0.98px;
+}
+.sdsemi24 {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -1.48px;
+}
+.sdthenewenwcolor {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sdultralight {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.sizes {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: -1.10px;
+}
+.thebig {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -3.60px;
+}
+.thebigwhite {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.theintervuew {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.thesilk {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: 0.00px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --caribbean-green: rgba(11,212,128,1.0);
+  --cod-gray: rgba(10,10,10,1.0);
+  --eerie-black: rgba(29,29,31,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --sonic-silver: rgba(117,117,121,1.0);
+  --tundora: rgba(66,66,69,1.0);
+  --tundora-2: rgba(66,66,69,0.949);
+  --white: rgba(255,255,255,1.0);
+}
