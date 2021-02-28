@@ -1,10 +1,5 @@
 /* screen - a404 */
 
-.-style {
-  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
-  font-size: 199px;
-  letter-spacing: 0.00px;
-}
 .a404 {
   background-color: var(--white);
   height: 1197px;
@@ -12,34 +7,17 @@
   position: relative;
   width: 1440px;
 }
-.a404 .bar-C61RwL {
-  background-color: transparent;
-  height: 87px;
-  left: 0px;
-  position: absolute;
-  top: 1110px;
-  width: 1440px;
-}
-.a404 .button-dIx87p {
-  background-color: var(--caribbean-green);
-  height: 24px;
-  left: 1067px;
-  position: absolute;
-  top: 15px;
-  width: 123px;
-}
 .a404 .error-404-page-not-C61RwL {
   background-color: transparent;
   color: var(--black);
   font-weight: 800;
   height: auto;
   left: 427px;
-  line-height: 57px;
+  line-height: 72px;
   position: absolute;
   text-align: center;
   top: 260px;
-  white-space: nowrap;
-  width: 586px;
+  width: 594px;
 }
 .a404 .ester-egg-C61RwL {
   background-color: transparent;
@@ -48,14 +26,6 @@
   position: absolute;
   top: 53px;
   width: 8px;
-}
-.a404 .footer-enIJlq {
-  background-color: var(--eerie-black);
-  height: 87px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 1440px;
 }
 .a404 .ghost-NOXmfT {
   background-color: transparent;
@@ -73,194 +43,26 @@
   top: 396px;
   width: 814px;
 }
-.a404 .group-ZXviDO {
-  background-color: transparent;
-  height: 18px;
-  left: 861px;
-  position: absolute;
-  top: 60px;
-  width: 338px;
-}
-.a404 .hr-Ij0EpA {
-  background-color: var(--tundora-2);
-  height: 1px;
-  left: 247px;
-  position: absolute;
-  top: 30px;
-  width: 947px;
-}
-.a404 .hr-ZXviDO {
-  background-color: var(--tundora-2);
-  height: 1px;
-  left: 247px;
-  position: absolute;
-  top: 56px;
-  width: 947px;
-}
-.a404 .hr-dIx87p {
-  background-color: var(--mine-shaft);
-  height: 1px;
-  left: 0px;
-  position: absolute;
-  top: 52px;
-  width: 1440px;
-}
-.a404 .nalssam-Ij0EpA {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 1029px;
-  line-height: 15px;
-  position: absolute;
-  text-align: left;
-  top: 38px;
-  white-space: nowrap;
-  width: 170px;
-}
 .a404 .nalssam-UOcbxe {
   background-color: transparent;
   color: var(--white);
   font-weight: 800;
   height: auto;
-  left: 249px;
+  left: -1px;
   line-height: 17px;
   position: absolute;
   text-align: center;
-  top: 18px;
+  top: 0px;
   white-space: nowrap;
   width: auto;
 }
-.a404 .nalssam-ZXviDO {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 250px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 38px;
-  white-space: nowrap;
-  width: 375px;
-}
-.a404 .navbar-UOcbxe {
-  background-color: var(--cod-gray);
-  height: 53px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1440px;
-}
-.a404 .textlabel-63crYe {
-  background-color: transparent;
-  color: var(--white);
-  font-weight: 800;
-  height: auto;
-  left: 10px;
-  line-height: 22px;
-  position: absolute;
-  text-align: center;
-  top: 1px;
-  white-space: nowrap;
-  width: 103px;
-}
-.a404 .textlabel-mmDlSt {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 1px;
-  white-space: nowrap;
-  width: 68px;
-}
 .a404 .view-C61RwL {
   background-color: transparent;
-  height: 53px;
-  left: 0px;
+  height: 17px;
+  left: 249px;
   position: absolute;
-  top: 0px;
-  width: 1440px;
-}
-.a404 .vr-copy-ZXviDO {
-  background-color: var(--tundora);
-  height: 9px;
-  left: 1022px;
-  position: absolute;
-  top: 41px;
-  width: 1px;
-}
-.a404 .vr-copy-mmDlSt {
-  background-color: var(--tundora);
-  height: 15px;
-  left: 195px;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-.a404 .vr-mmDlSt {
-  background-color: var(--tundora);
-  height: 15px;
-  left: 78px;
-  position: absolute;
-  top: 2px;
-  width: 1px;
-}
-.a404 .x-ZXviDO {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 751px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 37px;
-  white-space: nowrap;
-  width: 265px;
-}
-.a404 .x010-29-ZXviDO {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 250px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 57px;
-  white-space: nowrap;
-  width: 201px;
-}
-.a404 .x010-8402-2173-mmDlSt {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 206px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 1px;
-  white-space: nowrap;
-  width: 132px;
-}
-.a404 .x1-mmDlSt {
-  background-color: transparent;
-  color: var(--sonic-silver);
-  font-weight: 400;
-  height: auto;
-  left: 89px;
-  line-height: 16.0px;
-  position: absolute;
-  text-align: left;
-  top: 1px;
-  white-space: nowrap;
-  width: 96px;
+  top: 18px;
+  width: 66px;
 }
 .a404 .x2-C61RwL {
   background-color: transparent;
@@ -320,6 +122,11 @@
   font-size: 36px;
   letter-spacing: 0.00px;
 }
+.applesdgothicneo-normal-caribbean-green-18px {
+  color: var(--caribbean-green);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 18px;
+}
 .asd {
   font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
   font-size: 28px;
@@ -347,17 +154,7 @@
 }
 .ji1style {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 12px;
-}
-.littleabout {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 15px;
-  letter-spacing: -0.92px;
-}
-.littlefonts {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 16px;
-  letter-spacing: 0.00px;
+  font-size: 18px;
 }
 .more {
   font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
@@ -381,18 +178,17 @@
 }
 .nalssamlogoblack {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
-  font-size: 16px;
+  font-size: 21px;
   letter-spacing: 0.00px;
 }
-.sd12 {
-  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
-  font-size: 12px;
-  letter-spacing: 0.00px;
+.newnew {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 22px;
+  letter-spacing: -1.51px;
 }
-.sd13green {
-  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
-  font-size: 13px;
-  letter-spacing: -0.80px;
+.newstyle {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 24px;
 }
 .sd21green {
   font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
@@ -434,11 +230,6 @@
   font-size: 48px;
   letter-spacing: 0.00px;
 }
-.sd60 {
-  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
-  font-size: 60px;
-  letter-spacing: -3.48px;
-}
 .sdidontknow {
   font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
   font-size: 36px;
@@ -466,13 +257,13 @@
 }
 .sizes {
   font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 16px;
-  letter-spacing: -1.10px;
+  font-size: 18px;
+  letter-spacing: -1.24px;
 }
 .thebig {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 48px;
-  letter-spacing: -3.60px;
+  font-size: 60px;
+  letter-spacing: -4.50px;
 }
 .thebigwhite {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
@@ -484,13 +275,14 @@
   font-size: 36px;
   letter-spacing: 0.00px;
 }
-.thesilk {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 24px;
-  letter-spacing: 0.00px;
+.with-nalssam {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 60px;
+  letter-spacing: -2.25px;
 }
 :root {
   --black: rgba(0,0,0,1.0);
+  --bunker: rgba(17,17,18,1.0);
   --caribbean-green: rgba(11,212,128,1.0);
   --cod-gray: rgba(10,10,10,1.0);
   --eerie-black: rgba(29,29,31,1.0);

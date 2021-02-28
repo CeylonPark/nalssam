@@ -1,10 +1,5 @@
 /* screen - hw */
 
-.-style {
-  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
-  font-size: 199px;
-  letter-spacing: 0.00px;
-}
 .aboutnalssam {
   font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
   font-size: 27px;
@@ -19,6 +14,11 @@
   font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
   font-size: 36px;
   letter-spacing: 0.00px;
+}
+.applesdgothicneo-normal-caribbean-green-18px {
+  color: var(--caribbean-green);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 18px;
 }
 .asd {
   font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
@@ -42,7 +42,7 @@
 }
 .hw {
   background-color: var(--white);
-  height: 4547px;
+  height: 4483px;
   overflow-x: hidden;
   position: relative;
   width: 1440px;
@@ -66,14 +66,6 @@
   position: relative;
   width: 1440px;
 }
-.hw .button-RyCdLg {
-  background-color: var(--caribbean-green);
-  height: 24px;
-  left: 223px;
-  position: absolute;
-  top: 171px;
-  width: 75px;
-}
 .hw .button-dIx87p {
   background-color: var(--caribbean-green);
   height: 24px;
@@ -82,12 +74,29 @@
   top: 15px;
   width: 123px;
 }
-.hw .deep-hard-RyCdLg {
+.hw .button-iZjIT4 {
+  background-color: var(--caribbean-green);
+  height: 60px;
+  left: 213px;
+  position: absolute;
+  top: 186px;
+  width: 218px;
+}
+.hw .cr-6NpaO9 {
+  background-color: transparent;
+  background-image: url(../img/bio-asdfasddfafafgasfasdfasdfasdf00007-88163F3D-8851-47B3-9CE3-B25F4E3B0CF8@2x.png);
+  background-size: 100% 100%;
+  height: 97px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 97px;
+}
+.hw .deep-hard-fOBZLO {
   background-color: transparent;
   color: var(--black);
   font-weight: 600;
   height: auto;
-  left: 139px;
+  left: 204px;
   line-height: 29px;
   position: absolute;
   text-align: center;
@@ -112,8 +121,17 @@
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 859px;
+  top: 870px;
   width: auto;
+}
+.hw .g-slave-6NpaO9 {
+  background-color: transparent;
+  background-image: url(../img/bio-u110eu116cu110cu1169u11bc-u1105u1169u1100u116900004-B93B4A11-6998-45C7-AB0F-5C29D33B21A8@2x.png);
+  background-size: 100% 100%;
+  height: 97px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 97px;
 }
 .hw .group-15-SHDHHB {
   background: linear-gradient(225deg, #32C5FF 0%, #B620E0 51%, #F7B500 100%);
@@ -129,8 +147,40 @@
   height: 1221px;
   left: 247px;
   position: absolute;
-  top: 2186px;
+  top: 2309px;
   width: 945px;
+}
+.hw .group-3-C61RwL {
+  background-color: transparent;
+  height: 736px;
+  left: 0px;
+  position: absolute;
+  top: 1435px;
+  width: 1440px;
+}
+.hw .group-4-iZjIT4 {
+  background-color: transparent;
+  height: 176px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 652px;
+}
+.hw .group-5-C61RwL {
+  background-color: transparent;
+  height: 246px;
+  left: 394px;
+  position: absolute;
+  top: 309px;
+  width: 652px;
+}
+.hw .group-6-C61RwL {
+  background-color: var(--bunker);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1442px;
 }
 .hw .group-i7hrr4 {
   background-color: transparent;
@@ -164,19 +214,6 @@
   top: 83px;
   width: 947px;
 }
-.hw .hw-C61RwL {
-  background-color: transparent;
-  color: var(--black);
-  font-weight: 600;
-  height: auto;
-  left: 257px;
-  line-height: 19px;
-  position: absolute;
-  text-align: left;
-  top: 67px;
-  white-space: nowrap;
-  width: auto;
-}
 .hw .hw-sdxwGy {
   background-color: transparent;
   color: var(--black);
@@ -186,7 +223,7 @@
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 555px;
+  top: 566px;
   width: auto;
 }
 .hw .hw-zUixHA {
@@ -198,15 +235,50 @@
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 280px;
+  top: 291px;
   width: auto;
+}
+.hw .line-2-6NpaO9 {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.hw .line-3-6NpaO9 {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.hw .line-3-D4WyEx {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.hw .line-3-VX9NFJ {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.hw .line-3-e8LPZY {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
 }
 .hw .line-5-GE0XEQ {
   background-color: transparent;
   height: 4px;
   left: 1px;
   position: absolute;
-  top: 430px;
+  top: 441px;
   width: 944px;
 }
 .hw .line-5-kTiyrb {
@@ -214,7 +286,7 @@
   height: 4px;
   left: 0px;
   position: absolute;
-  top: 980px;
+  top: 991px;
   width: 944px;
 }
 .hw .line-5-sdxwGy {
@@ -222,7 +294,7 @@
   height: 4px;
   left: 0px;
   position: absolute;
-  top: 734px;
+  top: 745px;
   width: 944px;
 }
 .hw .line-5-zUixHA {
@@ -230,8 +302,23 @@
   height: 4px;
   left: 0px;
   position: absolute;
-  top: 155px;
+  top: 166px;
   width: 944px;
+}
+.hw .more00000-6NpaO9 {
+  background-color: transparent;
+  height: 32px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 84px;
+}
+.hw .more00000-V9ZBCi {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 84px;
 }
 .hw .nalssam-PZ5l3E {
   background-color: transparent;
@@ -299,23 +386,31 @@
   flex-direction: column;
   height: auto;
   justify-content: flex-start;
-  left: 0px;
+  left: 1px;
   position: absolute;
-  top: 3659px;
+  top: 3595px;
   width: 1440px;
 }
-.hw .textlabel-3pqNxu {
+.hw .stacked-group-PIEh7b {
+  align-items: center;
   background-color: transparent;
-  color: var(--white);
-  font-weight: 800;
-  height: auto;
-  left: 6px;
-  line-height: 22px;
-  position: absolute;
-  text-align: center;
-  top: 1px;
-  white-space: nowrap;
-  width: 63px;
+  display: flex;
+  flex-direction: row;
+  height: 97px;
+  justify-content: flex-start;
+  left: 183px;
+  position: relative;
+  top: 23px;
+  width: auto;
+}
+.hw .sw-logo-6NpaO9 {
+  background-color: transparent;
+  background-image: url(../img/bio-swlogo-EE3530C2-879E-487F-8319-E698374DF302@2x.png);
+  background-size: 100% 100%;
+  height: 97px;
+  margin: 0;
+  position: relative;
+  width: 97px;
 }
 .hw .textlabel-63crYe {
   background-color: transparent;
@@ -330,18 +425,6 @@
   white-space: nowrap;
   width: 103px;
 }
-.hw .textlabel-C61RwL {
-  background-color: transparent;
-  color: var(--white);
-  font-weight: 800;
-  height: auto;
-  left: 467px;
-  line-height: 57px;
-  position: absolute;
-  text-align: center;
-  top: 1596px;
-  width: auto;
-}
 .hw .textlabel-D44yGU {
   background-color: transparent;
   color: var(--sonic-silver);
@@ -355,16 +438,55 @@
   white-space: nowrap;
   width: auto;
 }
-.hw .textlabel-RyCdLg {
+.hw .textlabel-NSHvE3 {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 659px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 362px;
+  white-space: nowrap;
+  width: auto;
+}
+.hw .textlabel-R1C2ex {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 17px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+  width: 184px;
+}
+.hw .textlabel-fOBZLO {
   background-color: transparent;
   color: var(--black);
   font-weight: 800;
   height: auto;
   left: 0px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: auto;
+}
+.hw .textlabel-hvAGCq {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 331px;
   line-height: 57px;
   position: absolute;
   text-align: center;
-  top: 43px;
+  top: 311px;
+  white-space: nowrap;
   width: auto;
 }
 .hw .textlabel-kTiyrb {
@@ -376,7 +498,7 @@
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 497px;
+  top: 508px;
   white-space: nowrap;
   width: auto;
 }
@@ -389,7 +511,7 @@
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 222px;
+  top: 233px;
   white-space: nowrap;
   width: auto;
 }
@@ -398,21 +520,21 @@
   color: var(--black);
   font-weight: 800;
   height: auto;
-  left: 125px;
-  line-height: 57px;
+  left: 44px;
+  line-height: 72px;
   position: absolute;
   text-align: center;
   top: 0px;
   white-space: nowrap;
   width: auto;
 }
-.hw .top-word-C61RwL {
+.hw .top-word-5FNhjl {
   background-color: transparent;
-  height: 195px;
-  left: 459px;
-  position: absolute;
-  top: 185px;
-  width: 522px;
+  height: 176px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 652px;
 }
 .hw .view-C61RwL {
   background-color: transparent;
@@ -468,18 +590,32 @@
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 1105px;
+  top: 1116px;
   width: auto;
 }
 .hw .x00000-C61RwL {
   background-color: transparent;
-  background-image: url(../img/hw-u1102u1161u11afu110cu1161u11bcu1107u117500000-8B7A2E16-BE63-4A28-B89B-1FA2AE39AD29.png);
+  background-image: url(../img/hw-u1102u1161u11afu110cu1161u11bcu1107u117500000-27DC8980-16F0-42A8-AD14-7A0266383B92.png);
   background-size: 100% 100%;
   height: 595px;
-  left: 0px;
+  left: -1px;
   position: absolute;
-  top: 415px;
+  top: 659px;
   width: 1440px;
+}
+.hw .x00001-6NpaO9 {
+  background-color: transparent;
+  height: 97px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 97px;
+}
+.hw .x00002-6NpaO9 {
+  background-color: transparent;
+  height: 97px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 97px;
 }
 .hw .x010-29-i7hrr4 {
   background-color: transparent;
@@ -520,22 +656,14 @@
   white-space: nowrap;
   width: auto;
 }
-.hw .x2-C61RwL {
+.hw .x2-hvAGCq {
   background-color: transparent;
-  height: 1px;
-  left: 249px;
-  position: absolute;
-  top: 99px;
-  width: 942px;
-}
-.hw .x2-VMr6Om {
-  background-color: transparent;
-  background-image: url(../img/hw-2-84BEBBAA-7696-4C91-A688-DB239B16432A.png);
+  background-image: url(../img/hw-2-4F96BB27-E4E5-4540-8FC4-FAC38BECDB10.png);
   background-size: 100% 100%;
   height: 736px;
   left: 0px;
   position: absolute;
-  top: 1285px;
+  top: 0px;
   width: 1440px;
 }
 .hw .x2020-hard-ware-slav-zUixHA {
@@ -547,7 +675,7 @@
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 1047px;
+  top: 1058px;
   white-space: nowrap;
   width: auto;
 }
@@ -572,7 +700,7 @@
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 801px;
+  top: 812px;
   white-space: nowrap;
   width: auto;
 }
@@ -581,11 +709,11 @@
   color: var(--black);
   font-weight: 600;
   height: auto;
-  left: 582px;
-  line-height: 19px;
+  left: 531px;
+  line-height: 27px;
   position: absolute;
   text-align: center;
-  top: 1128px;
+  top: 1344px;
   white-space: nowrap;
   width: auto;
 }
@@ -596,17 +724,7 @@
 }
 .ji1style {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 12px;
-}
-.littleabout {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 15px;
-  letter-spacing: -0.92px;
-}
-.littlefonts {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 16px;
-  letter-spacing: 0.00px;
+  font-size: 18px;
 }
 .more {
   font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
@@ -630,18 +748,17 @@
 }
 .nalssamlogoblack {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
-  font-size: 16px;
+  font-size: 21px;
   letter-spacing: 0.00px;
 }
-.sd12 {
-  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
-  font-size: 12px;
-  letter-spacing: 0.00px;
+.newnew {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 22px;
+  letter-spacing: -1.51px;
 }
-.sd13green {
-  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
-  font-size: 13px;
-  letter-spacing: -0.80px;
+.newstyle {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 24px;
 }
 .sd21green {
   font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
@@ -683,11 +800,6 @@
   font-size: 48px;
   letter-spacing: 0.00px;
 }
-.sd60 {
-  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
-  font-size: 60px;
-  letter-spacing: -3.48px;
-}
 .sdidontknow {
   font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
   font-size: 36px;
@@ -715,13 +827,13 @@
 }
 .sizes {
   font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 16px;
-  letter-spacing: -1.10px;
+  font-size: 18px;
+  letter-spacing: -1.24px;
 }
 .thebig {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 48px;
-  letter-spacing: -3.60px;
+  font-size: 60px;
+  letter-spacing: -4.50px;
 }
 .thebigwhite {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
@@ -733,13 +845,14 @@
   font-size: 36px;
   letter-spacing: 0.00px;
 }
-.thesilk {
-  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
-  font-size: 24px;
-  letter-spacing: 0.00px;
+.with-nalssam {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 60px;
+  letter-spacing: -2.25px;
 }
 :root {
   --black: rgba(0,0,0,1.0);
+  --bunker: rgba(17,17,18,1.0);
   --caribbean-green: rgba(11,212,128,1.0);
   --cod-gray: rgba(10,10,10,1.0);
   --eerie-black: rgba(29,29,31,1.0);
