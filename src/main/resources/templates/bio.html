@@ -235,6 +235,21 @@
     <meta name="author" content="AnimaApp.com - Design to code, Automated." />
   </head>
   <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <script>
+      window.kakaoAsyncInit = function() {
+        Kakao.Channel.createAddChannelButton({
+          container: '#kakao-talk-channel-add-button',
+        });
+      };
+    
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://developers.kakao.com/sdk/js/kakao.channel.min.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, 'script', 'kakao-js-sdk');
+    </script>
     <input type="hidden" id="anPageName" name="page" value="bio" />
     <div class="container-center-horizontal">
       <div class="bio screen">
@@ -355,8 +370,12 @@
               <a href="a404.html">
                 <div class="more00000-xd0wTK">
                   <a href="a404.html" onclick="window.event.stopPropagation()"
-                    ><img class="more00000-TVJ55C" src="img/bio-more00000-904D57A4-C295-49A9-8391-80D5A2DC7E2A@2x.png"
-                  /></a></div
+                    ><div
+                    id="kakao-talk-channel-add-button"
+                    data-channel-public-id="_SxnLNK"
+                    data-size="large"
+                    data-support-multiple-densities="true"
+                  ></div></a></div
               ></a>
             </div>
           </div>
