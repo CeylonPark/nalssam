@@ -12,12 +12,12 @@
   color: var(--black);
   font-weight: 800;
   height: auto;
-  left: 427px;
-  line-height: 72px;
+  left: 428px;
+  line-height: 87px;
   position: absolute;
   text-align: center;
   top: 260px;
-  width: 594px;
+  width: 593px;
 }
 .a404 .ester-egg-C61RwL {
   background-color: transparent;
@@ -121,6 +121,11 @@
   font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
   font-size: 36px;
   letter-spacing: 0.00px;
+}
+.applesdgothicneo-heavy-normal-white-24px {
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 24px;
 }
 .applesdgothicneo-normal-caribbean-green-18px {
   color: var(--caribbean-green);
@@ -258,8 +263,8 @@
 }
 .thebig {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 60px;
-  letter-spacing: -4.50px;
+  font-size: 72px;
+  letter-spacing: -5.40px;
 }
 .thebigwhite {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;

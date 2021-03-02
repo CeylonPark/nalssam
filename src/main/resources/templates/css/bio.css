@@ -15,6 +15,11 @@
   font-size: 36px;
   letter-spacing: 0.00px;
 }
+.applesdgothicneo-heavy-normal-white-24px {
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 24px;
+}
 .applesdgothicneo-normal-caribbean-green-18px {
   color: var(--caribbean-green);
   font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
@@ -32,7 +37,7 @@
 }
 .bio {
   background-color: var(--white);
-  height: 4700px;
+  height: 4864px;
   overflow-x: hidden;
   position: relative;
   width: 1440px;
@@ -65,7 +70,7 @@
   line-height: 27px;
   position: absolute;
   text-align: center;
-  top: 1319px;
+  top: 1423px;
   white-space: nowrap;
   width: auto;
 }
@@ -74,19 +79,19 @@
   color: var(--black);
   font-weight: 500;
   height: auto;
-  left: 13px;
+  left: 50px;
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 291px;
+  top: 302px;
   width: auto;
 }
 .bio .button-KOsP6k {
   background-color: var(--caribbean-green);
   height: 60px;
-  left: 221px;
+  left: 209px;
   position: absolute;
-  top: 184px;
+  top: 206px;
   width: 218px;
 }
 .bio .click-3qshht {
@@ -94,11 +99,11 @@
   color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 609px;
+  left: 608px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 120px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -107,11 +112,11 @@
   color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 213px;
+  left: 139px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 120px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -120,11 +125,11 @@
   color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 807px;
+  left: 844px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 120px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -133,11 +138,11 @@
   color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 1005px;
+  left: 1080px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 120px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -146,11 +151,11 @@
   color: var(--white);
   font-weight: 200;
   height: auto;
-  left: 411px;
+  left: 372px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 120px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -159,22 +164,22 @@
   color: var(--black);
   font-weight: 700;
   height: auto;
-  left: 11px;
+  left: 48px;
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 233px;
+  top: 244px;
   white-space: nowrap;
   width: auto;
 }
 .bio .cr-xd0wTK {
   background-color: transparent;
-  background-image: url(../img/bm-asdfasddfafafgasfasdfasdfasdf00007-FF9BC485-D87B-4D39-B8E2-6D653FA4CFCC@2x.png);
+  background-image: url(../img/bio-asdfasddfafafgasfasdfasdfasdf00007-AA9CB208-D745-4F8E-AB4F-085D8307EC46@2x.png);
   background-size: 100% 100%;
-  height: 97px;
+  height: 135px;
   margin: 0 0 0 50px;
   position: relative;
-  width: 97px;
+  width: 135px;
 }
 .bio .footer-fNGuiB {
   background-color: var(--eerie-black);
@@ -186,19 +191,19 @@
 }
 .bio .g-slave-xd0wTK {
   background-color: transparent;
-  background-image: url(../img/sw-u110eu116cu110cu1169u11bc-u1105u1169u1100u116900004-0F0282D7-032D-4CC7-B765-74579D72A2AE@2x.png);
+  background-image: url(../img/bio-u110eu116cu110cu1169u11bc-u1105u1169u1100u116900004-2DCE73FC-7AD1-4DF1-B9D1-7A79D355B3DF@2x.png);
   background-size: 100% 100%;
-  height: 97px;
+  height: 135px;
   margin: 0 0 0 50px;
   position: relative;
-  width: 97px;
+  width: 135px;
 }
 .bio .group-11-C61RwL {
   background-color: transparent;
-  height: 146px;
+  height: 190px;
   left: 0px;
   position: absolute;
-  top: 50px;
+  top: 72px;
   width: 1442px;
 }
 .bio .group-15-SHDHHB {
@@ -212,15 +217,15 @@
 }
 .bio .group-2-C61RwL {
   background-color: transparent;
-  height: 1441px;
-  left: 246px;
+  height: 1452px;
+  left: 228px;
   position: absolute;
-  top: 2265px;
-  width: 947px;
+  top: 2400px;
+  width: 984px;
 }
 .bio .group-3-KOsP6k {
   background-color: transparent;
-  height: 176px;
+  height: 206px;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -228,15 +233,15 @@
 }
 .bio .group-4-C61RwL {
   background-color: transparent;
-  height: 244px;
-  left: 390px;
+  height: 266px;
+  left: 404px;
   position: absolute;
-  top: 309px;
+  top: 362px;
   width: 635px;
 }
 .bio .group-6-bAyQtV {
   background-color: var(--bunker);
-  height: 146px;
+  height: 190px;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -263,7 +268,7 @@
   height: 1px;
   left: 0px;
   position: relative;
-  top: 52px;
+  top: 71px;
   width: 1440px;
 }
 .bio .hr-i7hrr4 {
@@ -312,33 +317,33 @@
 .bio .line-5-GE0XEQ {
   background-color: transparent;
   height: 4px;
-  left: 0px;
+  left: 37px;
   position: absolute;
-  top: 1026px;
+  top: 1037px;
   width: 944px;
 }
 .bio .line-5-kTiyrb {
   background-color: transparent;
   height: 4px;
-  left: 1px;
+  left: 38px;
   position: absolute;
-  top: 441px;
+  top: 452px;
   width: 944px;
 }
 .bio .line-5-sdxwGy {
   background-color: transparent;
   height: 4px;
-  left: 3px;
+  left: 40px;
   position: absolute;
-  top: 716px;
+  top: 727px;
   width: 944px;
 }
 .bio .line-5-zUixHA {
   background-color: transparent;
   height: 4px;
-  left: 0px;
+  left: 37px;
   position: absolute;
-  top: 166px;
+  top: 177px;
   width: 944px;
 }
 .bio .more00000-TVJ55C {
@@ -371,16 +376,16 @@
 }
 .bio .nalssam-UOcbxe {
   background-color: transparent;
-  color: var(--white);
   font-weight: 800;
   height: auto;
   left: 248px;
-  line-height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
   position: absolute;
   text-align: center;
-  top: 18px;
+  top: 22px;
   white-space: nowrap;
-  width: auto;
+  width: 118px;
 }
 .bio .nalssam-b-nFxIs7 {
   background-color: transparent;
@@ -422,7 +427,7 @@
 }
 .bio .navbar-UOcbxe {
   background-color: var(--cod-gray);
-  height: 53px;
+  height: 72px;
   left: 0px;
   position: absolute;
   top: 0px;
@@ -437,7 +442,7 @@
   justify-content: flex-start;
   left: 0px;
   position: absolute;
-  top: 3802px;
+  top: 3966px;
   width: 1440px;
 }
 .bio .stacked-group-W8YgeY {
@@ -445,21 +450,21 @@
   background-color: transparent;
   display: flex;
   flex-direction: row;
-  height: 97px;
+  height: 135px;
   justify-content: flex-start;
-  left: 183px;
+  left: 92px;
   position: relative;
   top: 23px;
   width: auto;
 }
 .bio .sw-logo-xd0wTK {
   background-color: transparent;
-  background-image: url(../img/sw-swlogo-CDA1FCD5-FC09-4C68-B38C-EFADE8323762@2x.png);
+  background-image: url(../img/hw-swlogo-E686EA96-EA4C-4FED-9A47-FBE30F28EC2D@2x.png);
   background-size: 100% 100%;
-  height: 97px;
+  height: 130px;
   margin: 0;
   position: relative;
-  width: 97px;
+  width: 130px;
 }
 .bio .textlabel-D44yGU {
   background-color: transparent;
@@ -479,11 +484,11 @@
   color: var(--black);
   font-weight: 500;
   height: auto;
-  left: 15px;
+  left: 52px;
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 841px;
+  top: 852px;
   width: 896px;
 }
 .bio .textlabel-GE0XEQ {
@@ -491,11 +496,11 @@
   color: var(--black);
   font-weight: 500;
   height: auto;
-  left: 13px;
+  left: 50px;
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 566px;
+  top: 577px;
   width: auto;
 }
 .bio .textlabel-ZTOnhR {
@@ -503,11 +508,11 @@
   color: var(--black);
   font-weight: 700;
   height: auto;
-  left: 16px;
+  left: 53px;
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 783px;
+  top: 794px;
   white-space: nowrap;
   width: auto;
 }
@@ -516,11 +521,11 @@
   color: var(--black);
   font-weight: 700;
   height: auto;
-  left: 12px;
+  left: 49px;
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 508px;
+  top: 519px;
   white-space: nowrap;
   width: auto;
 }
@@ -542,8 +547,8 @@
   color: var(--black);
   font-weight: 800;
   height: auto;
-  left: 2px;
-  line-height: 72px;
+  left: 3px;
+  line-height: 87px;
   position: absolute;
   text-align: center;
   top: 32px;
@@ -554,11 +559,11 @@
   color: var(--black);
   font-weight: 700;
   height: auto;
-  left: 11px;
+  left: 48px;
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 233px;
+  top: 244px;
   white-space: nowrap;
   width: auto;
 }
@@ -567,8 +572,8 @@
   color: var(--black);
   font-weight: 800;
   height: auto;
-  left: 43px;
-  line-height: 72px;
+  left: -1px;
+  line-height: 87px;
   position: absolute;
   text-align: center;
   top: 0px;
@@ -577,7 +582,7 @@
 }
 .bio .top-word-2jslx4 {
   background-color: transparent;
-  height: 176px;
+  height: 206px;
   left: 0px;
   position: relative;
   top: 0px;
@@ -585,8 +590,8 @@
 }
 .bio .view-C61RwL {
   background-color: transparent;
-  height: 53px;
-  left: 0px;
+  height: 72px;
+  left: 1px;
   position: absolute;
   top: 0px;
   width: 1440px;
@@ -633,26 +638,26 @@
   color: var(--black);
   font-weight: 500;
   height: auto;
-  left: 13px;
+  left: 50px;
   line-height: 29px;
   position: absolute;
   text-align: left;
-  top: 1151px;
+  top: 1162px;
   width: auto;
 }
 .bio .x00001-xd0wTK {
   background-color: transparent;
-  height: 97px;
+  height: 135px;
   margin: 0 0 0 50px;
   position: relative;
-  width: 97px;
+  width: 135px;
 }
 .bio .x00002-xd0wTK {
   background-color: transparent;
-  height: 97px;
+  height: 135px;
   margin: 0 0 0 50px;
   position: relative;
-  width: 97px;
+  width: 135px;
 }
 .bio .x010-29-i7hrr4 {
   background-color: transparent;
@@ -695,12 +700,12 @@
 }
 .bio .x2-C61RwL {
   background-color: transparent;
-  background-image: url(../img/bio-2-ABF3A5D7-2769-43B1-A996-7D5D302640C0.png);
+  background-image: url(../img/bio-2-4D028B6C-A89A-47E7-B1F3-5A342BB5E967.png);
   background-size: 100% 100%;
   height: 736px;
-  left: -1px;
+  left: 0px;
   position: absolute;
-  top: 1433px;
+  top: 1550px;
   width: 1440px;
 }
 .bio .x2021-g-slave-pro-j-zUixHA {
@@ -708,11 +713,11 @@
   color: var(--black);
   font-weight: 700;
   height: auto;
-  left: 14px;
+  left: 51px;
   line-height: 43px;
   position: absolute;
   text-align: left;
-  top: 1093px;
+  top: 1104px;
   white-space: nowrap;
   width: auto;
 }
@@ -730,12 +735,12 @@
 }
 .bio .x3-C61RwL {
   background-color: transparent;
-  background-image: url(../img/bio-3-C44940B1-ED6A-4DE8-92A1-303BE96799C2.png);
+  background-image: url(../img/bio-3-33115A0D-25F4-42E4-9F17-DA4B33C6BD50.png);
   background-size: 100% 100%;
   height: 595px;
   left: 0px;
   position: absolute;
-  top: 647px;
+  top: 728px;
   width: 1440px;
 }
 .facetimestyle {
@@ -859,8 +864,8 @@
 }
 .thebig {
   font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
-  font-size: 60px;
-  letter-spacing: -4.50px;
+  font-size: 72px;
+  letter-spacing: -5.40px;
 }
 .thebigwhite {
   font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
